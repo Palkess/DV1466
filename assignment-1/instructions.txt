@@ -34,10 +34,12 @@ Q	Number of files of a particular type in a directory-tree.	1.0 points
 11a	How many files in the directory-tree sandbox/america/ are ASCII text?
 11b	What shell command-line did you use?
 11c	Optional: any comments on your approach (including any external sources) ?
+
 Q	A directory at the maximum depth sandbox directory-tree.	1.0 points
 12a	What is the path of a directory at the maximum depth of the sandbox/ directory-tree? (There may be files inside it, but there should be no directory in the tree that is deeper).
 12b	What shell command-line did you use?
 12c	Optional: any comments on your approach (including any external sources) ?
+
 Q	Ordering files in a tree according to date.	1.0 points
 13a	What is the path of the oldest file in the directory-tree sandbox/other/ancient/ ? (Hint: you will need to glue find and ls together using xargs)
 13b	What shell command-line did you use?

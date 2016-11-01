@@ -1,0 +1,23 @@
+1a america/other/boeing/777
+2a britain/spitfire
+3a other/1977/starwars
+4a america/other/plymouth/roadrunner
+5a europe/planes/a300
+6a 4
+6b du -s america
+6c I read up on the manual page for 'du' and it said how to specify block sizes.
+7a other/ancient/celestialmotion
+7b du -b other/* | sort -n -r
+8a 20
+8b find america/other/* | wc -l
+9a 15
+9b find america/other/* -type f | wc -l
+9c I looked up the manual page for 'find' and adapted my last command to files.
+10a 5
+10b find other/ancient/celestialmotion/* -type d | wc -l
+10c The same as last command, adapted it to directories.
+11a 2
+11b find america/* -type f -exec file  \{\} \; | grep 'ASCII' | wc -l
+11c I used the example command with -exec as a base and then used 'file' to get
+11c the types. With a output I could grep the lines I wanted and count them.
+12a
