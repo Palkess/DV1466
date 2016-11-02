@@ -1,5 +1,3 @@
-Questions / Tasks
-
 Q	Treasure Hunt 1	0.5 points
 1a	What is the path of the answer to the first clue?
 Q	Treasure Hunt 2	0.5 points
@@ -10,41 +8,40 @@ Q	Treasure Hunt 4	0.5 points
 4a	What is the path of the answer to the fourth clue?
 Q	Treasure Hunt 5	0.5 points
 5a	What is the path of the answer to the fifth clue?
-Q	The data-sizes of files and directories occupy a larger space on disk because of padding to storage-block boundaries. The total storage used for a directory tree includes the blocks used to store the directory, and any sub-directories, and any file with a path inside the tree.	1.0 points
-6a	How many 1kb blocks are used on the disk to store the tree sandbox/america/ (including any files and sub-directories recursively) ?
+
+Q	Number of entries (including those hidden by default) in a directory.	1.0 points
+6a	How many entries are in directory sandbox/other/none/america/ ?
 6b	What shell command-line did you use?
 6c	Optional: any comments on your approach (including any external sources) ?
-Q	Compare disk storage size between directory-trees.	1.0 points
-7a	Which directory-tree under sandbox/other/ uses the most blocks of storage on the disk?
+Q	Count the number of entries in a directory-tree.	1.0 points
+7a	How many (non-hidden) entries are in the directory-tree sandbox/other/none/elsewhere/ ?
 7b	What shell command-line did you use?
 7c	Optional: any comments on your approach (including any external sources) ?
-Q	Number of entries (including those hidden by default) in a directory.	1.0 points
-8a	How many entries are in directory sandbox/america/other/ ?
+Q	Compare disk storage size between directory-trees.	1.0 points
+8a	Which directory-tree under sandbox/other/ uses the most blocks of storage on the disk?
 8b	What shell command-line did you use?
 8c	Optional: any comments on your approach (including any external sources) ?
-Q	Number of files in a directory-tree.	1.0 points
-9a	How many files are in the directory-tree sandbox/other/ ?
+Q	Number of files of a particular type in a directory-tree.	1.0 points
+9a	How many files in the directory-tree sandbox/other/ are ASCII text?
 9b	What shell command-line did you use?
 9c	Optional: any comments on your approach (including any external sources) ?
-Q	Number of directories in a directory-tree.	1.0 points
-10a	How many directories are in the directory-tree sandbox/other/ancient/celestialmotion/ ?
+Q	Number of files at the maximum depth in the sandbox directory-tree.	1.0 points
+10a	How many files are at the maximum depth of the sandbox/ directory-tree?
 10b	What shell command-line did you use?
 10c	Optional: any comments on your approach (including any external sources) ?
-Q	Number of files of a particular type in a directory-tree.	1.0 points
-11a	How many files in the directory-tree sandbox/america/ are ASCII text?
+Q	A file at the maximum depth in the sandbox directory-tree.	1.0 points
+11a	What is the path of a file located at the maximum depth of the sandbox/ directory-tree?
 11b	What shell command-line did you use?
 11c	Optional: any comments on your approach (including any external sources) ?
-
-Q	A directory at the maximum depth sandbox directory-tree.	1.0 points
-12a	What is the path of a directory at the maximum depth of the sandbox/ directory-tree? (There may be files inside it, but there should be no directory in the tree that is deeper).
+Q	Number of files in a directory-tree.	1.0 points
+12a	How many files are in the directory-tree sandbox/other/none/america/ ?
 12b	What shell command-line did you use?
 12c	Optional: any comments on your approach (including any external sources) ?
-
 Q	Ordering files in a tree according to date.	1.0 points
-13a	What is the path of the oldest file in the directory-tree sandbox/other/ancient/ ? (Hint: you will need to glue find and ls together using xargs)
+13a	What is the path of the oldest file in the directory-tree sandbox/other/ ? (Hint: you will need to glue find and ls together using xargs)
 13b	What shell command-line did you use?
 13c	Optional: any comments on your approach (including any external sources) ?
-Q	Combined size of files in a directory-tree? (Not the padded disk usage)	1.0 points
-14a	How many bytes (in total) are in the files in the directory-tree sandbox/other/ancient/ ? (i.e. add the file sizes together)
+Q	Combined size of files in a directory? (Not the padded disk usage)	1.0 points
+14a	How many bytes (in total) are in the files in sandbox/other/none/america/deadpresidents/ ? (i.e. add the file sizes together)
 14b	What shell command-line did you use?
 14c	Optional: any comments on your approach (including any external sources) ?
