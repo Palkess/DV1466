@@ -8,7 +8,6 @@ Q	Treasure Hunt 4	0.5 points
 4a	What is the path of the answer to the fourth clue?
 Q	Treasure Hunt 5	0.5 points
 5a	What is the path of the answer to the fifth clue?
-
 Q	Number of entries (including those hidden by default) in a directory.	1.0 points
 6a	How many entries are in directory sandbox/other/none/america/ ?
 6b	What shell command-line did you use?

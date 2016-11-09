@@ -1,0 +1,40 @@
+1a civilian/777
+2a other/green/spitfire
+3a space/starwars
+4a other/orangeblack/roadrunner
+5a civilian/a300
+6a 16
+6b ls -aR other/none/america/* | wc -w
+6c I looked at the examples and read the manual for ls.
+7a 24
+7b ls -R other/none/elsewhere/* | wc -w
+7c Excluded the -a flag from previous task.
+8a other/none
+8b du -sb other/* | sort -nr | head -n1
+8c I took a look at the examples and the the manual for each
+8c command. I got the command 'head' from some searches online
+8c to get the first entry in the output.
+9a 2
+9b find other/* -type f -exec file \{\} \; | grep 'ASCII' | wc -l
+9c I split up each part of the call and solved them one-by-one which
+9c eventually could be combined into one command.
+10a 25
+10b find -mindepth 5 -maxdepth 5 -type f | wc -l
+10c I did task eleven before this so I took the same command and added
+10c a counter instead of limiting the output with head.
+11a other/none/elsewhere/20kb/vic20
+11b find -mindepth 5 -maxdepth 5 -type f | head -n1
+11c Read the manual and tested the different max/mindepths.
+12a 10
+12b find other/none/america/* -type f | wc -l
+12c Read the manual-page of find and adjusted.
+13a other/redwhiteblue/uk
+13b find other/* -type f | xargs ls -ltr | head -n1
+13c Read up about xargs and tested it first with a simple ls. Read
+13c the manual about ls to get what flags I needed to sort on time.
+14a 1541
+14b du -bc other/none/america/deadpresidents/* | sort -nr | head -n1
+14c I knew I had to use 'du' in some way so I started with that. Then
+14c I needed to find out how to count all the sizes together which I got
+14c from a source online, with the '-c' flag. The rest was fairly easy,
+14c I did similar sortings in previous tasks.
