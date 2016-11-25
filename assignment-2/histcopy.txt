@@ -1,0 +1,1000 @@
+ 1135  find ./* | sort
+ 1136  man sort
+ 1137  man sort | grep 'lengthl
+ 1138  '
+ 1139  man sort | grep 'length'
+ 1140  '
+ 1141  man sort | grep length
+ 1142  man sort | grep 'length'
+ 1143  ma sort
+ 1144  man sort
+ 1145  find ./* | wc -c
+ 1146  find ./* | wc -l
+ 1147  find -type f 
+ 1148  find -type f | sort
+ 1149  man sort
+ 1150  find -type f 
+ 1151  man find
+ 1152  man awk
+ 1153  awk
+ 1154  find /path/to/dir/ -printf '%s %p\n'| sort -nr | head -10
+ 1155  find ./* -printf '%s %p\n'| sort -nr | head -10
+ 1156  find ./* -type f -printf '%s %p\n'| sort -nr | head -10
+ 1157  find ./* -type f -printf '%p\n'| sort -nr | head -10
+ 1158  find ./* -type f -printf '%p\n'| sort -nr
+ 1159  man find
+ 1160  find ./* -type f
+ 1161  find ./* -type f | sort
+ 1162  find ./* -type f | sort --length
+ 1163  find ./* -type f | sort -length
+ 1164  find ./* -type f | sort -l
+ 1165  find ./* -type f | sort -c
+ 1166  cd /var/www/html/
+ 1167  ls -al
+ 1168  cd
+ 1169  cd Documents/
+ 1170  ls -al
+ 1171  cd /var/www/html
+ 1172  ls -al
+ 1173  cd javascript/
+ 1174  ls -al
+ 1175  cd ..
+ 1176  rm javascript/
+ 1177  rm -r javascript/
+ 1178  git clone https://github.com/Palkess/DV1483
+ 1179  mv DV1483 javascript
+ 1180  cd javascript/
+ 1181  ls -al
+ 1182  cd ..
+ 1183  atom javascript/
+ 1184  ls -al javascript/
+ 1185  ls -al javascript
+ 1186  man chmod
+ 1187  sudo chmod -r 777 javascript/
+ 1188  sudo chmod -r javascript/ 777
+ 1189  sudo chmod -R javascript/ 777
+ 1190  sudo chmod -R 777 javascript/
+ 1191  sudo chmod 777 javascript/
+ 1192  cd ..
+ 1193  sudo chmod 775 html/
+ 1194  cd html/
+ 1195  sudo chmod -R 775 javascript/ 
+ 1196  sudo service apache2 restart
+ 1197  ls -al
+ 1198  sudo rm -r javascript/
+ 1199  ls -al
+ 1200  git clone https://github.com/Palkess/DV1483
+ 1201  cd ..
+ 1202  sudo chmod 777 html
+ 1203  cd html/
+ 1204  git clone https://github.com/Palkess/DV1483
+ 1205  atom DV1483/
+ 1206  cd DV1483/
+ 1207  ls -al
+ 1208  rm -r css3-2d-transforms-with-transitions/
+ 1209  rm -r img/
+ 1210  rm -r js/
+ 1211  rm -r mall/
+ 1212  rm -r me/
+ 1213  rm -r move-around-css-sprite-using-css3-transitions/
+ 1214  rm -r resize-element/
+ 1215  rm -r test/
+ 1216  ls -al
+ 1217  rm source.php 
+ 1218  git add --all
+ 1219  git commit -m "Removed everything from previous course, restarting to get a better understanding of the course"
+ 1220  git push
+ 1221  ls -al
+ 1222  mkdir test
+ 1223  mkdir mall
+ 1224  nano mall/header.php
+ 1225  ls -al mall/*
+ 1226  ls -al mall/
+ 1227  touch mall/header.php
+ 1228  touch test/index.php
+ 1229  touch mall/footer.php
+ 1230  mkdir js
+ 1231  touch js/modernizer.js
+ 1232  mv js/modernizer.js js/modernizr.js
+ 1233  cd
+ 1234  cd Documents/
+ 1235  cd d
+ 1236  cd dbwebb/
+ 1237  ls -al
+ 1238  dbwebb clone javascript
+ 1239  cd javascript/
+ 1240  ls -al
+ 1241  dbwebb init
+ 1242  sudo dbwebb init
+ 1243  dbwebb upload me
+ 1244  dbwebb publish me
+ 1245  cd me/
+ 1246  ls -al
+ 1247  cd js/
+ 1248  ls -al
+ 1249  mv jquery.js jquery.min.js 
+ 1250  cd ..
+ 1251  cd test/
+ 1252  cd ..
+ 1253  nano mall/footer.php 
+ 1254  dbwebb publish me
+ 1255  cd js
+ 1256  ls -al
+ 1257  mv less.js less.min.js
+ 1258  mv modernizr.js modernizr.min.js 
+ 1259  cd ..
+ 1260  nano mall/footer.php 
+ 1261  nano mall/header.php 
+ 1262  dbwebb publish me
+ 1263  cd ..
+ 1264  cd /var/www/html
+ 1265  ls -al
+ 1266  rm -r DV1483
+ 1267  sudo rm -r DV1483
+ 1268  ln -s ~/Documents/dbwebb/javascript/ javascript/
+ 1269  ln -s ~/Documents/dbwebb/javascript/ ./javascript
+ 1270  ls -al
+ 1271  mv javascript DV1483
+ 1272  cd
+ 1273  cd Documents/
+ 1274  cd d
+ 1275  cd dbwebb/
+ 1276  cd javascript/
+ 1277  atom me
+ 1278  dbwebb publish me
+ 1279  cd me/
+ 1280  ls -al
+ 1281  dbwebb publish
+ 1282  dbwebb publish test
+ 1283  dbwebb publish me
+ 1284  dbwebb publish 
+ 1285  dbwebb publish
+ 1286  mkdir img
+ 1287  cd img/
+ 1288  wget http://jonasanderssonweb.se/images/brand-image.png
+ 1289  ls -al
+ 1290  mv brand-image.png me.png
+ 1291  wget http://i.imgur.com/r8xlXmT.png
+ 1292  ls -al
+ 1293  mv r8xlXmT.png meme.png
+ 1294  dbwebb publish
+ 1295  cd ..
+ 1296  mkdir kmom01-baddie
+ 1297  cp mall/index.php kmom01-baddie/index.php
+ 1298  touch kmom01-baddie/main.js
+ 1299  touch kmom01-baddie/style.less
+ 1300  cd img/
+ 1301  wget https://sstatic.se/img/sprite_mickey_mos.png
+ 1302  ls -al
+ 1303  mv sprite_mickey_mos.png baddie.png
+ 1304  cd ..
+ 1305  mkdir kmom01-baddie-animations
+ 1306  touch kmom01-baddie-animations/main.js
+ 1307  touch kmom01-baddie-animations/style.less
+ 1308  cp mall/index.php kmom01-baddie-animations/index.php
+ 1309  dbwebb publish
+ 1310  mkdir kmom01-resize
+ 1311  cp mall/index.php kmom01-resize/index.php
+ 1312  touch kmom01-resize/style.less
+ 1313  touch kmom01-resize/main.js
+ 1314  dbwebb publish
+ 1315  man find
+ 1316  man find | grep min
+ 1317  cd Documents/
+ 1318  cd unix/
+ 1319  ls -al
+ 1320  cd DV1466/
+ 1321  ls -al
+ 1322  cd assignment-1/
+ 1323  ls -al
+ 1324  cd sandbox/
+ 1325  find -mindepth 2
+ 1326  find -mindepth=2
+ 1327  find --mindepth 2
+ 1328  find --mindepth=2
+ 1329  man find | grep min
+ 1330  man ls | grep min
+ 1331  find -type f -mindepth 1
+ 1332  find -type f -mindepth 2
+ 1333  find -type f -maxdepth 2
+ 1334  find -maxdepth 2 -type f
+ 1335  find -maxdepth 2 -type 3
+ 1336  find -maxdepth 3 -type f
+ 1337  find -maxdepth 1 -type f
+ 1338  find -maxdepth 2 -type f
+ 1339  find -maxdepth 3 -type f
+ 1340  find -mindepth 1 -maxdepth 3 -type f
+ 1341  find -mindepth 3 -maxdepth 3 -type f
+ 1342  find -mindepth 3 -maxdepth 4 -type f
+ 1343  find -mindepth 4 -maxdepth 4 -type f
+ 1344  find -type f
+ 1345  find -mindepth 5 -maxdepth 5 -type f
+ 1346  find -mindepth 6 -maxdepth 6 -type f
+ 1347  find -mindepth 5 -maxdepth 5 -type f
+ 1348  find -mindepth 5 -maxdepth 5 -type f | head
+ 1349  find -mindepth 5 -maxdepth 5 -type f | head -n1
+ 1350  cd ..
+ 1351  atom assignment-1/
+ 1352  cd assignment-1/
+ 1353  find -mindepth 5 -maxdepth 5 -type f 
+ 1354  find . -mindepth 5 -maxdepth 5 -type f 
+ 1355  find -mindepth 5 -maxdepth 5 -type f
+ 1356  ls -al
+ 1357  cd sandbox/
+ 1358  find -mindepth 5 -maxdepth 5 -type f
+ 1359  find -mindepth 5 -maxdepth 5 -type f | wc -l
+ 1360  cd ..
+ 1361  ls -al
+ 1362  cp report.txt sandbox/report.txt
+ 1363  tar -cvzf a1.tar.gz sandbox/
+ 1364  ls -al
+ 1365  cd sandbox/
+ 1366  ls -al
+ 1367  cd ..
+ 1368  cd sandbox/
+ 1369  tar -cvzf a1.tar.gz *
+ 1370  ls -al
+ 1371  cd ..
+ 1372  ls -al
+ 1373  rm report.txt 
+ 1374  rm a1.tar.gz 
+ 1375  ls -al
+ 1376  git status
+ 1377  git commit -m "Update after submission"
+ 1378  git add --al
+ 1379  git add --all
+ 1380  git status
+ 1381  git commit -m "Update after submission"
+ 1382  git push
+ 1383  cd 
+ 1384  cd Documents/
+ 1385  cd d
+ 1386  cd dbwebb/
+ 1387  ls -al
+ 1388  cd javascript/
+ 1389  ls -al
+ 1390  cd me
+ 1391  ls -al
+ 1392  cd ..
+ 1393  atom me
+ 1394  cd me/
+ 1395  mkdir kmom02-literals
+ 1396  ls mall/*
+ 1397  cp mall/index.php kmom02-literals/index.php
+ 1398  cp mall/main.js kmom02-literals/
+ 1399  ls -al kmom02-literals/*
+ 1400  cp mall/style.less kmom02-literals/
+ 1401  cp kmom02-literals/ kmom02-numbers
+ 1402  ls -al
+ 1403  cp kmom02-literals kmom02-numbers
+ 1404  cp -r kmom02-literals kmom02-numbers
+ 1405  ls -al
+ 1406  cp -r kmom02-literals kmom02-strings
+ 1407  cp -r kmom02-literals kmom02-dice
+ 1408  cp -r kmom02-literals kmom02-ball
+ 1409  cp -r kmom02-literals kmom02-game
+ 1410  cd img/
+ 1411  ls -al
+ 1412  mkdir game
+ 1413  cd game/
+ 1414  mkdir floor
+ 1415  cd floor/
+ 1416  wget https://dbwebb.se/img/tiles/floor/dirt_full.png
+ 1417  ls -al
+ 1418  wget https://dbwebb.se/img/tiles/floor/grass0.png
+ 1419  ls -al
+ 1420  rm dirt_full.png 
+ 1421  mv grass0.png dirt_full.png
+ 1422  mv dirt_full.png grass_full.png
+ 1423  wget https://dbwebb.se/img/tiles/floor/grass_full.png
+ 1424  ls -al
+ 1425  mv grass_full.png.1 sand_full.png
+ 1426  cd ..
+ 1427  dbwebb publish
+ 1428  dbwebb upload
+ 1429  dbwebb publish mall
+ 1430  dbwebb publish me
+ 1431  dbwebb publish
+ 1432  ls -al
+ 1433  cp -r kmom02-literals kmom02-roulette
+ 1434  dbwebb publish
+ 1435  cd Downloads/
+ 1436  ls -al
+ 1437  ls nwjs-v0.18.6-linux-x64.tar.gz 
+ 1438  ls -al
+ 1439  cd ..
+ 1440  cd Documents/
+ 1441  ls -al
+ 1442  cd testing/
+ 1443  ls -al
+ 1444  mkdir nw.js
+ 1445  cd nw.js/
+ 1446  cp ~/Downloads/nwjs-v0.18.6-linux-x64.tar.gz ./
+ 1447  ls -al
+ 1448  tar -xzvf nwjs-v0.18.6-linux-x64.tar.gz 
+ 1449  ls -al
+ 1450  cd nwjs-v0.18.6-linux-x64/l
+ 1451  cd nwjs-v0.18.6-linux-x64/
+ 1452  ls -al
+ 1453  man nw
+ 1454  nw
+ 1455  ./nw
+ 1456  cd ..
+ 1457  mv nwjs-v0.18.6-linux-x64/* ./
+ 1458  ls -al
+ 1459  cd nwjs-v0.18.6-linux-x64/
+ 1460  ls -al
+ 1461  cd ..
+ 1462  rm nwjs-v0.18.6-linux-x64
+ 1463  rm -r nwjs-v0.18.6-linux-x64
+ 1464  nw
+ 1465  ./nw
+ 1466  mkdir apps
+ 1467  cd apps
+ 1468  ls -al
+ 1469  mkdir helloWorld
+ 1470  cd
+ 1471  sudo nano .bash_aliases 
+ 1472  nw
+ 1473  cd Do
+ 1474  cd Documents/
+ 1475  cd testing/
+ 1476  cd nw.js/
+ 1477  cd apps/
+ 1478  cd helloWorld/
+ 1479  cd ..
+ 1480  atom helloWorld/
+ 1481  cd helloWorld/
+ 1482  npm install markdown
+ 1483  zip -r helloworld.nw *
+ 1484  ls -al
+ 1485  nw helloworld.nw 
+ 1486  ls -al
+ 1487  rm helloworld.nw 
+ 1488  zip -r helloworld.nw *
+ 1489  nw helloworld.nw 
+ 1490  rm helloworld.nw 
+ 1491  zip -r helloworld.nw *
+ 1492  nw helloworld.nw 
+ 1493  sudo chmod +x helloworld.nw 
+ 1494  ./helloworld.nw 
+ 1495  nautilus
+ 1496  nw helloworld.nw 
+ 1497  cd
+ 1498  cd /var/www/html/
+ 1499  ls -al
+ 1500  cd policy-dashboard/
+ 1501  ls -al
+ 1502  cd client/
+ 1503  ls -al
+ 1504  atom index.html 
+ 1505  cd
+ 1506  cd Documents/
+ 1507  cd testing/nw.js/apps/
+ 1508  ls -al
+ 1509  cd helloWorld/
+ 1510  rm helloworld.nw 
+ 1511  zip -r helloworld.nw *
+ 1512  nw helloworld.nw 
+ 1513  sshome
+ 1514  exit
+ 1515  sshome
+ 1516  dbwebb inspect python kmom10 eroa16
+ 1517  dbwebb run 'potatoe eroa16'
+ 1518  dbwebb inspect python kmom10 eroa16
+ 1519  dbwebb login
+ 1520  dbwebb inspect python kmom10 erek16
+ 1521  dbwebb login
+ 1522  dbwebb inspect python kmom10 roca16
+ 1523  dbwebb run 'potatoe roca16'
+ 1524  dbwebb inspect python kmom10 roca16
+ 1525  dbwebb login
+ 1526  dbwebb inspect python kmom02 roca16
+ 1527  cd Documents/
+ 1528  cd unix/
+ 1529  ls -al
+ 1530  cd DV1466/
+ 1531  git status
+ 1532  sshome
+ 1533  cd /var/www/html
+ 1534  ls -al
+ 1535  cd oophp/
+ 1536  ls -al
+ 1537  cd ..
+ 1538  cd oophp/
+ 1539  dbwebb inspect javascript1 kmom01 haso16
+ 1540  dbwebb run 'potate haso16'
+ 1541  dbwebb run 'potatoe haso16'
+ 1542  dbwebb inspect javascript1 kmom01 haso16
+ 1543  dbwebb inspect javascript1 kmom01 joal16
+ 1544  dbwebb inspect javascript1 kmom01 frot16
+ 1545  dbwebb run 'potatoe frot16'
+ 1546  dbwebb inspect javascript1 kmom01 frot16
+ 1547  dbwebb inspect javascript1 kmom01 lieb16
+ 1548  dbwebb login 
+ 1549  cd Downloads/
+ 1550  ls -al
+ 1551  python test.py The\ Richard\ Lewis\ Show\ #4.mp4 
+ 1552  cd ..
+ 1553  cd Documents/
+ 1554  cd github/
+ 1555  ls -al
+ 1556  git clone https://github.com/Palkess/CustomVLC
+ 1557  cd CustomVLC/
+ 1558  ls -al
+ 1559  mv ~/Downloads/test.py vlc.py
+ 1560  ls -al
+ 1561  atom README.md 
+ 1562  python3 vlc.py ~/Downloads/The\ Richard\ Lewis\ Show\ #4.mp4 
+ 1563  python vlc.py ~/Downloads/The\ Richard\ Lewis\ Show\ #4.mp4 
+ 1564  git status
+ 1565  git add --all
+ 1566  git commit -m "Init commit"
+ 1567  git push
+ 1568  sudo add-apt-repository ppa:obsproject/obs-studio
+ 1569  sagu
+ 1570  sagi obs-studio
+ 1571  sagug
+ 1572  sudo chmod +x vlc.py 
+ 1573  ./vlc.py ~/Downloads/The\ Richard\ Lewis\ Show\ #4.mp4 
+ 1574  atom
+ 1575  cd ..
+ 1576  atom CustomVLC/
+ 1577  sudo reboot
+ 1578  cd Downloads/
+ 1579  ls -al
+ 1580  cd Z.Nation.S03E03.720p.HDTV.x264-KILLERS\[ettv\]/
+ 1581  ls -al
+ 1582  cd ..
+ 1583  cp Z.Nation.S03E03.720p.HDTV.x264-KILLERS\[ettv\]/Z.Nation.S03E03.720p.HDTV.x264-KILLERS\[ettv\].mkv test.mkv
+ 1584  rm test.mkv 
+ 1585  ls -al
+ 1586  cp Hell.on.Wheels.S05E06.720p.HDTV.x264-KILLERS\[EtHD\]/Hell.on.Wheels.S05E06.720p.HDTV.x264-KILLERS.mkv test.mkv
+ 1587  cd Documents/
+ 1588  cd github/
+ 1589  cd CustomVLC/
+ 1590  ./vlc.py ~/Downloads/The\ Richard\ Lewis\ Show\ #4.mp4 
+ 1591  git status
+ 1592  git add vlc.py 
+ 1593  git commit -m "Changed windows CRLF to LF"
+ 1594  git push
+ 1595  ./vlc.py ~/Downloads/test.mkv 
+ 1596  ./vlc.py ~/Downloads/The\ Co-Optional\ Podcast\ Ep.\ 122\ ft.\ MathasGames\ \[strong\ language\]\ -\ May\ 5\,\ 2016.mp4 
+ 1597  ./vlc.py ~/Downloads/test.mkv 
+ 1598  sagi libvdpau-va-gl
+ 1599  git status
+ 1600  git add vlc.py 
+ 1601  git commit -m "Added option for changing exact player.time"
+ 1602  git push
+ 1603  python main.py 
+ 1604  python main.py ~/Downloads/test.mkv 
+ 1605  python3 main.py ~/Downloads/test.mkv 
+ 1606  python main.py ~/Downloads/test.mkv 
+ 1607  python3 main.py ~/Downloads/test.mkv 
+ 1608  python main.py ~/Downloads/test.mkv 
+ 1609  git status
+ 1610  git add .gitignore 
+ 1611  git commit -m "Added gitignore"
+ 1612  git push
+ 1613  git add main.py 
+ 1614  git commit -m "Moved main-code to it's own seperate file."
+ 1615  git add README.md 
+ 1616  git commit -m "Updated instructions according to the changes"
+ 1617  git push
+ 1618  python main.py ~/Downloads/test.mkv 
+ 1619  python vlc.py ~/Downloads/test.mkv 
+ 1620  git status
+ 1621  git add --all
+ 1622  git commit -m "Added config file for later use"
+ 1623  git push
+ 1624  python vlc.py ~/Downloads/test.mkv 
+ 1625  git status
+ 1626  git add main.py 
+ 1627  git commit -m "Added commentary and removed sleep"
+ 1628  git push
+ 1629  python vlc.py ~/Downloads/test.mkv 
+ 1630  python main.py ~/Downloads/test.mkv 
+ 1631  cd Documents/github/CustomVLC/
+ 1632  ls -al
+ 1633  python main.py ~/Downloads/test.mkv 
+ 1634  cd Documents/github/CustomVLC/
+ 1635  python main.py ~/Downloads/test.mkv 
+ 1636  git status
+ 1637  git add main.py 
+ 1638  git commit -m "Added options to raise and lower volume"
+ 1639  git push
+ 1640  cd Documents/
+ 1641  cd github/
+ 1642  ls -al
+ 1643  cp ~/Downloads/Hell.on.Wheels.S05E06.720p.HDTV.x264-KILLERS\[EtHD\]/Hell.on.Wheels.S05E06.720p.HDTV.x264-KILLERS.mkv test.mkv
+ 1644  ls -al
+ 1645  cd CustomVLC/
+ 1646  git pull
+ 1647  sshome
+ 1648  dbwebb inspect javascript1 kmom01 roca16
+ 1649  dbwebb inspect javascript1 kmom01 aman16
+ 1650  dbwebb run 'potatoe aman16'
+ 1651  dbwebb inspect javascript1 kmom01 aman16
+ 1652  dbwebb inspect javascript1 kmom01 emkj16
+ 1653  cd Documents/github/CustomVLC/
+ 1654  cd .
+ 1655  cd ..
+ 1656  ls -la
+ 1657  cd dbwebb/
+ 1658  ls -la
+ 1659  cd javascript/
+ 1660  ls -la
+ 1661  cd me
+ 1662  ls -a
+ 1663  ls -al
+ 1664  cd ..
+ 1665  atom me/
+ 1666  ls -al
+ 1667  cd me/
+ 1668  ls -al
+ 1669  ls mall/*
+ 1670  mkdir kmom03-assignment1
+ 1671  cp mall/index.php kmom03-assignment1/index.ph
+ 1672  cp mall/main.js kmom03-assignment1/main.js
+ 1673  cp mall/style.less kmom03-assignment1/style.less
+ 1674  cd kmom0
+ 1675  cd kmom03-assignment1/
+ 1676  ls -al
+ 1677  mv index.ph index.php
+ 1678  cd ..
+ 1679  cp -r kmom03-assignment1/ kmom03-assignment2
+ 1680  sshome
+ 1681  exit
+ 1682  cd doc
+ 1683  cd Documents/github/
+ 1684  atom CustomVLC/
+ 1685  cd C
+ 1686  cd CustomVLC/
+ 1687  python main.py ../test.mkv 
+ 1688  cd Documents/dbwebb/
+ 1689  cd javascript/
+ 1690  atom me
+ 1691  cd me/
+ 1692  cp -r kmom03-assignment1/ kmom03-assignment3
+ 1693  cp -r kmom03-assignment3/ kmom03-assignment4
+ 1694  sshome
+ 1695  eit
+ 1696  xit
+ 1697  exit
+ 1698  cd Documents/github/
+ 1699  ls -al
+ 1700  cd ..
+ 1701  ls -al
+ 1702  cd dbwebb/
+ 1703  cd javascript/
+ 1704  ls -al
+ 1705  cd me/
+ 1706  ls -la
+ 1707  cd ..
+ 1708  atom me
+ 1709  sudo reboot
+ 1710  ls -al
+ 1711  cd Documents/
+ 1712  cd github/
+ 1713  cd ..
+ 1714  cd dbwebb/javascript
+ 1715  atom me
+ 1716  dbwebb inspect python kmom06 daer16
+ 1717  dbwebb login
+ 1718  uman
+ 1719  lsb_release -a
+ 1720  cd Documents/github/CustomVLC/
+ 1721  ls -al
+ 1722  cd .
+ 1723  cd ..
+ 1724  atom CustomVLC/
+ 1725  cd CustomVLC/
+ 1726  python main.py ../test.mkv 
+ 1727  man ps
+ 1728  ps -A
+ 1729  cd Documents/unix/
+ 1730  ls -al
+ 1731  cd DV1466/
+ 1732  ls -al
+ 1733  mkdir assignment-2
+ 1734  cd assignment-2
+ 1735  ls -al
+ 1736  cd ..
+ 1737  atom assignment-2/
+ 1738  ps aux
+ 1739  ps aux | grep root
+ 1740  ps aux | grep jonas
+ 1741  ps aux | grep jonas | head -n +2
+ 1742  ps aux | grep jonas | head -n -2
+ 1743  ps aux | grep jonas | tail -n +2
+ 1744  ps aux | grep jonas | tail -n +15
+ 1745  ps aux | grep jonas | tail -n +15 | wc -l
+ 1746  ps aux | grep jonas | tail -n +2 | wc -l
+ 1747  ps aux | grep jonas | wc -l
+ 1748  ps aux | grep jonas | tail -n2 | wc -l
+ 1749  ps aux | grep jonas | tail -n2 
+ 1750  ps aux | grep jonas | tail -n15
+ 1751  ps aux | grep jonas | tail -n15 | wc -l
+ 1752  ps aux | grep jonas | head -n15 | wc -l
+ 1753  ps aux | grep jonas | head -n15
+ 1754  ps aux | grep jonas | head -n15 | tail -n5
+ 1755  ps aux | grep jonas | head -n15 | tail -n7
+ 1756  ps aux | grep jonas | head -n15 | tail -n8
+ 1757  ps aux | grep root | head -n15 | tail -n8
+ 1758  ps aux | head -n15 | tail -n8 | grep root
+ 1759  ps aux | head -n15 | tail -n8
+ 1760  ps aux
+ 1761  ps aux | head -n15 | tail -n8 | grep root
+ 1762  ps aux | head -n15 | tail -n8 | grep root | cut -c1
+ 1763  ps aux | head -n15 | tail -n8 | grep root | cut -c4
+ 1764  ps aux | head -n15 | tail -n8 | grep root | cut 0-5
+ 1765  ps aux | head -n15 | tail -n8 | grep root | cut -c10-5
+ 1766  ps aux | head -n15 | tail -n8 | grep root | cut -c1,0-5
+ 1767  ps aux | head -n15 | tail -n8 | grep root | cut -c1,0-5,
+ 1768  ps aux | head -n15 | tail -n8 | grep root | cut -c1,0-5,1
+ 1769  ps aux | head -n15 | tail -n8 | grep root | cut -c1,1-5,1
+ 1770  ps aux | head -n15 | tail -n8 | grep root | cut -c11,1-5,1
+ 1771  ps aux | head -n15 | tail -n8 | grep root | cut -c3,5-9,20-
+ 1772  ps aux | head -n15 | tail -n8 | grep root | cut -c4,5-9,20-
+ 1773  ps aux | head -n15 | tail -n8 | grep root | cut -c11,5-9,20-
+ 1774  ps aux | head -n15 | tail -n8 | grep root | cut $2
+ 1775  ps aux | head -n15 | tail -n8 | grep root | awk '{print $2}'
+ 1776  ps aux | head -n15 | tail -n8 | grep root | awk '{print $11}'
+ 1777  netstat
+ 1778  netstat | head -n3
+ 1779  netstat | head -n5
+ 1780  netstat | head -n5 | tail -n3
+ 1781  ps aux
+ 1782  netstat | head -n5 | tail -n3
+ 1783  netstat -tWae
+ 1784  ps aux >pscopy.txt
+ 1785  cat pscopy.txt 
+ 1786  netstat -tWae >netcopy.txt
+ 1787  cat netcopy.txt 
+ 1788  ls -al
+ 1789  mv netcopy.txt assignment-2/
+ 1790  mv pscopy.txt assignment-2/
+ 1791  ls -al
+ 1792  cd assignment-1/
+ 1793  ls -al
+ 1794  cd sandbox/
+ 1795  ls -al
+ 1796  cd ..
+ 1797  cd assignment-
+ 1798  cd assignment-2
+ 1799  ls -al
+ 1800  history >histcopy.txt
+ 1801  cat histcopy.txt 
+ 1802  ls -al >dircopy.txt
+ 1803  ls -al
+ 1804  cat pscopy.txt | head -n15 | tail -n8 | grep root | awk '{print $11}'
+ 1805  cat netcopy.txt 
+ 1806  cat netcopy.txt | head -n3
+ 1807  cat netcopy.txt | head -n5
+ 1808  cat netcopy.txt | head -n5 | tail -n3
+ 1809  echi -ne '2a ' >q2; cat netcopy.txt | head -n5 | tail -n3 >>q2 ; echo -ne '2b 'cat netcopy.txt | head -n5 | tail -n3 >>q2
+ 1810  echo -ne '2a ' >q2; echi -ne '2a ' >q2; cat netcopy.txt | head -n5 | tail -n3 >>q2 ; echo -ne '2b 'cat netcopy.txt | head -n5 | tail -n3 >>q2 >>q2 ; echo -ne '2b 'echi -ne '2a ' >q2; cat netcopy.txt | head -n5 | tail -n3 >>q2 ; echo -ne '2b 'cat netcopy.txt | head -n5 | tail -n3 >>q2 >>q2
+ 1811  cat netcopy.txt | head -n5 | tail -n3
+ 1812  echo -ne '2a ' >q2 ; cat netcopy.txt | head -n5 | tail -n3 >>q2 ; echo -ne '2b 'cat netcopy.txt | head -n5 | tail -n3 >>q2
+ 1813  ls -al
+ 1814  cat q2 
+ 1815  echo 'a clever answer'
+ 1816  echo -ne '4a ' >q4 ; echo 'a clever answer' >>q4 ; echo -ne '4b 'echo 'a clever answer' >>q4
+ 1817  cat q4
+ 1818  pwd
+ 1819  cat netcopy.txt | head -n5 | tail -n3
+ 1820  cat pscopy.txt | head -n15 | tail -n8 | grep root
+ 1821  cat pscopy.txt 
+ 1822  cat pscopy.txt | tail -n4
+ 1823  cat pscopy.txt | tail -n +4
+ 1824  cat pscopy.txt | tail -n +2
+ 1825  clear
+ 1826  cat pscopy.txt | tail -n +4
+ 1827  clear
+ 1828  cat pscopy.txt 
+ 1829  cat pscopy.txt | tail -n +2
+ 1830  cat pscopy.txt | tail -n +2 | tail -n4
+ 1831  cat pscopy.txt 
+ 1832  cat pscopy.txt | tail -n +2 | tail -n4
+ 1833  cat netcopy.txt 
+ 1834  man grep
+ 1835  cat netcopy.txt | wc -l
+ 1836  cat netcopy.txt | grep -v ESTABLISHED | wc -l
+ 1837  cat netcopy.txt | grep -v ESTABLISHED
+ 1838  cat netcopy.txt | tail -n +2 | grep -v ESTABLISHED
+ 1839  cat netcopy.txt | tail -n +3 | grep -v ESTABLISHED
+ 1840  cat histcopy.txt 
+ 1841  cat histcopy.txt | grep ls
+ 1842  cat histcopy.txt | grep ls | awk '{ print $1 }'
+ 1843  cat histcopy.txt 
+ 1844  cat histcopy.txt | wc -l
+ 1845  cat histcopy.txt | grep ls | wc -l
+ 1846  touch memes.txt
+ 1847  cat histcopy.txt | grep ls | awk '{ print $1 >>memes.txt }'
+ 1848  cat histcopy.txt | grep ls | awk '{ print $1 >>memes }'
+ 1849  cat histcopy.txt | grep ls | awk '{ echo $1 >>memes }'
+ 1850  cat histcopy.txt | grep ls | awk '{ echo $1 >memes }'
+ 1851  ls -al
+ 1852  cat memes.txt 
+ 1853  rm memes.txt 
+ 1854  touch memes
+ 1855  cat histcopy.txt | grep ls | awk '{ echo $1 >>memes }'
+ 1856  history >histcopy.txt 
+ 1857  cat histcopy.txt | wc -l
+ 1858  cat histcopy.txt | grep ls | wc -l
+ 1859  cd ..
+ 1860  cd ~
+ 1861  cd Documents/
+ 1862  mkdir testsss
+ 1863  rm -r testsss/
+ 1864  cd ..
+ 1865  find Downloads/*
+ 1866  cd Downloads/
+ 1867  cd ..
+ 1868  cd Documents/github/CustomVLC/
+ 1869  python main.py ../test.mkv 
+ 1870  find
+ 1871  cd ..
+ 1872  cd
+ 1873  history | grep ls | wc -ls
+ 1874  history | grep ls | wc -l
+ 1875  history | grep ls 
+ 1876  history | grep "ls "
+ 1877  history | grep "ls " | wc -l
+ 1878  cd Documents/unix/DV1466/assignment-2
+ 1879  cat histcopy.txt | head -n1 ; cd Documents/unix/DV1466/assignment-2 | tail -n1
+ 1880  cat histcopy.txt 
+ 1881  cat histcopy.txt | grep "ls "
+ 1882  cat histcopy.txt | grep "ls " | head -n1
+ 1883  cat histcopy.txt | grep "ls " | head -n1 ; cat histcopy.txt | grep "ls " | head -n1 | tail -n1
+ 1884  cat histcopy.txt | grep "ls " | head -n1 | awk '{ print $1 }' ; cat histcopy.txt | grep "ls " | tail -n1 | awk '{ print $1 }'
+ 1885  cas pscopy.txt 
+ 1886  cat pscopy.txt 
+ 1887  man tr
+ 1888  cat histcopy.txt | grep "ls " | tr -c 
+ 1889  cat histcopy.txt | grep "ls " | tr -c $1
+ 1890  man tr
+ 1891  cat histcopy.txt | grep "ls " | tr -c [:digit:]
+ 1892  cat histcopy.txt | grep "ls " | tr -cd [:digit:]
+ 1893  tr 1234 abcd
+ 1894  cat histcopy.txt | grep "ls " | tr 1234 abcd
+ 1895  man tr
+ 1896  cat histcopy.txt | grep "ls " | tr -c [:digit:] [:alpha:]
+ 1897  cat histcopy.txt | grep "ls " | tr -c [:digit:]
+ 1898  cat histcopy.txt | grep "ls " | tr [:digit:] a-z
+ 1899  cat histcopy.txt | grep "ls "
+ 1900  clear
+ 1901  cat netcopy.txt 
+ 1902  netstat -tWae
+ 1903  netstat -tWae >new.txt
+ 1904  cat new.txt 
+ 1905  rm netcopy.txt 
+ 1906  mv new.txt netcopy.txt
+ 1907  ls -al
+ 1908  cat report.txt | grep netcopy
+ 1909  cat netcopy.txt | head -n5 | tail -n3
+ 1910  cat netcopy.txt | tail -n +3 | grep -v ESTABLISHED
+ 1911  ipconfig
+ 1912  ifconfig
+ 1913  netstat -tWae
+ 1914  netstat -tWae >netcopy.txt
+ 1915  cat netcopy.txt 
+ 1916  netstat -tWae >netcopy.txt
+ 1917  cat netcopy.txt 
+ 1918  netstat -tWae >netcopy.txt
+ 1919  cat netcopy.txt 
+ 1920  netstat -tWae >netcopy.txt
+ 1921  cat netcopy.txt 
+ 1922  netstat -tWae >netcopy.txt
+ 1923  cat netcopy.txt 
+ 1924  netstat -tWae >netcopy.txt
+ 1925  cat netcopy.txt 
+ 1926  netstat -tWae >netcopy.txt
+ 1927  cat netcopy.txt 
+ 1928  netstat -tWae >netcopy.txt
+ 1929  cat netcopy.txt 
+ 1930  netstat -tWae >netcopy.txt
+ 1931  cat netcopy.txt 
+ 1932  netstat -tWae >netcopy.txt
+ 1933  cat netcopy.txt 
+ 1934  netstat -tWae >netcopy.txt
+ 1935  cat netcopy.txt 
+ 1936  netstat -tWae >netcopy.txt
+ 1937  cat netcopy.txt 
+ 1938  netstat -tWae >netcopy.txt
+ 1939  cat netcopy.txt 
+ 1940  netstat -tWae >netcopy.txt
+ 1941  cat netcopy.txt 
+ 1942  netstat -tWae >netcopy.txt
+ 1943  cat netcopy.txt 
+ 1944  netstat -tWae >netcopy.txt
+ 1945  cat netcopy.txt 
+ 1946  netstat -tWae >netcopy.txt
+ 1947  cat netcopy.txt 
+ 1948  netstat -tWae >netcopy.txt
+ 1949  cat netcopy.txt 
+ 1950  netstat -tWae >netcopy.txt
+ 1951  cat netcopy.txt 
+ 1952  netstat -tWae >netcopy.txt
+ 1953  cat netcopy.txt 
+ 1954  netstat -tWae >netcopy.txt
+ 1955  cat netcopy.txt 
+ 1956  netstat -tWae >netcopy.txt
+ 1957  cat netcopy.txt 
+ 1958  netstat -tWae >netcopy.txt
+ 1959  cat netcopy.txt 
+ 1960  netstat -tWae >netcopy.txt
+ 1961  cat netcopy.txt 
+ 1962  cat report.txt | grep netcopy
+ 1963  cat netcopy.txt | head -n5 | tail -n3
+ 1964  cat netcopy.txt | tail -n +3 | grep -v ESTABLISHED
+ 1965  netstat -tWae
+ 1966  netstat -tWae >netcopy.txt
+ 1967  cat netcopy.txt 
+ 1968  cat netcopy.txt | grep -v ESTABLISHED
+ 1969  cat report.txt | grep netcopy
+ 1970  cat netcopy.txt | head -n5 | tail -n3
+ 1971  cat netcopy.txt | tail -n +3 | grep -v ESTABLISHED
+ 1972  man sort
+ 1973  cat netcopy.txt | sort -k3
+ 1974  cat netcopy.txt | sort -u -k3
+ 1975  cat netcopy.txt | tail -n +2 | sort -u -k3
+ 1976  cat netcopy.txt | tail -n +3 | sort -u -k3
+ 1977  cat netcopy.txt | tail -n +3 | sort -k3
+ 1978  cat netcopy.txt | tail -n +3 | sort -u -k3
+ 1979  cat netcopy.txt | tail -n +3 | sort -k3
+ 1980  man ort
+ 1981  man sort
+ 1982  cat netcopy.txt | tail -n +3 | sort -r -k3
+ 1983  clear
+ 1984  cat netcopy.txt | tail -n +3 | sort -r -k3
+ 1985  cat netcopy.txt | tail -n +3 | sort -r -k2 | 
+ 1986  cat netcopy.txt | tail -n +3 | sort -r -k2 
+ 1987  cat netcopy.txt | tail -n +3 | sort -r -k3 | head -n1 rm 
+ 1988  ls -al
+ 1989  rm memes 
+ 1990  rm q2
+ 1991  rm q4
+ 1992  ls -al
+ 1993  history | grep "ls " | wc -l
+ 1994  cd ,,
+ 1995  cd /var/www/html/
+ 1996  rm *.torrent 
+ 1997  atom
+ 1998  cd Documents/
+ 1999  cd unix/
+ 2000  cd DV1466/
+ 2001  cd assignment-2
+ 2002  ls -la
+ 2003  history | grep "ls "
+ 2004  history | grep "ls " | wc -l
+ 2005  cd ..
+ 2006  ls -al
+ 2007  nautilus
+ 2008  man sed
+ 2009  cd assignment-
+ 2010  cd assignment-2
+ 2011  ls -al
+ 2012  cat histcopy.txt | grep "ls" | wc -l
+ 2013  cat histcopy.txt | grep "ls"
+ 2014  cat histcopy.txt | grep "ls" | awk '{ print $1 }'
+ 2015  cat histcopy.txt | grep "ls" | awk '{ print 5a $1 }'
+ 2016  cat histcopy.txt | grep "ls" | awk '{ print \\"5a\\" $1 }'
+ 2017  cat histcopy.txt | grep "ls" | awk '{ print \"5a\" $1 }'
+ 2018  cat histcopy.txt | grep "ls" | awk '{ print \\"5a\\" $1 }'
+ 2019  cat histcopy.txt | grep "ls" | awk '{ print \\"5a \\" $1 }'
+ 2020  cat histcopy.txt | grep "ls" | awk '{ print \\" 5a \\" $1 }'
+ 2021  cat histcopy.txt | grep "ls" | awk '{ print "5a" $1 }'
+ 2022  cat histcopy.txt | grep "ls" | awk '{ print "5a " $1 }'
+ 2023  cat histcopy.txt 
+ 2024  cat histcopy.txt | awk '{ print $1 $2 }'
+ 2025  cat histcopy.txt | awk '{ print $1 " " $2 }'
+ 2026  cat histcopy.txt | awk '{ print $1 " " $2 }' | grep ls | wc -l
+ 2027  history | awk {' print $1 " " $2}' | grep ls | wc -l
+ 2028  cat report.txt | grep histcopy
+ 2029  cd
+ 2030  cd /var
+ 2031  cd www
+ 2032  cd html/
+ 2033  mkdir memes
+ 2034  cd
+ 2035  cd Documents/
+ 2036  mkdir memes
+ 2037  cd memes/
+ 2038  touch rarepepe.txt
+ 2039  cd ..
+ 2040  rm -r memes
+ 2041  cd unix/DV1466/assignment-2
+ 2042  history | awk {' print $1 " " $2}' >histcopy.txt
+ 2043  cat histcopy.txt 
+ 2044  cat histcopy.txt | grep ls | wc -l
+ 2045  cat histcopy.txt | grep ls | awk '{ print $1 "," }'
+ 2046  cat histcopy.txt | grep ls | wc -l
+ 2047  ps aux
+ 2048  cat pscopy.txt 
+ 2049  ps aux
+ 2050  ps aux >pscopy.txt 
+ 2051  cat report.txt | grep pscopy
+ 2052  cat pscopy.txt | head -n15 | tail -n8 | grep root
+ 2053  cat pscopy.txt | tail -n +2 | tail -n4
+ 2054  cat pscopy.txt 
+ 2055  cat pscopy.txt | tail -n +2
+ 2056  cat pscopy.txt | tail -n +1
+ 2057  cat pscopy.txt | tail -n +2
+ 2058  cat pscopy.txt | tail -n +2 | grep -v Nov24
+ 2059  cat pscopy.txt | tail -n +2 | grep -v Nov*
+ 2060  clear
+ 2061  cat pscopy.txt | tail -n +2 | grep -v Nov*
+ 2062  cat pscopy.txt | tail -n +2 | grep -v Nov* | awk '{ print $9 }'
+ 2063  cat pscopy.txt | tail -n +2 | grep -v Nov* | awk '{ print $9 }' | cut -c3
+ 2064  cat pscopy.txt | tail -n +2 | grep -v Nov* | awk '{ print $9 }' | cut -c2
+ 2065  cat pscopy.txt | tail -n +2 | grep -v Nov* | awk '{ print $9 }' | cut -c23
+ 2066  man cut
+ 2067  cat pscopy.txt | tail -n +2 | grep -v Nov* | awk '{ print $9 }' | cut -c 2
+ 2068  cat pscopy.txt | tail -n +2 | grep -v Nov* | awk '{ print $9 }' | cut -c 3
+ 2069  cat pscopy.txt | tail -n +2 | grep -v Nov* | awk '{ print $9 }' | cut -c1
+ 2070  cat pscopy.txt | tail -n +2 | grep -v Nov* | awk '{ print $9 }' | cut -c1,2-3
+ 2071  cat pscopy.txt | tail -n +2 | grep -v Nov* | awk '{ print $9 }' | cut -c1,2-2
+ 2072* cat pscopy.txt | tail -n +2 | grep -v Nov* | awk '{ print $9 }' | cut -c1,2-2 | sort -uca
+ 2073  cat pscopy.txt 
+ 2074  cat pscopy.txt | awk '{ print $8 }'
+ 2075  cat pscopy.txt | awk '{ print $8 }' | sort -u
+ 2076  cat pscopy.txt | tail -n +2 awk '{ print $8 }' | sort -u
+ 2077  cat pscopy.txt | tail -n +2 | awk '{ print $8 }' | sort -u
+ 2078  cat pscopy.txt | tail -n +2 | awk '{ print $8 }' | sort -u | wc -l
+ 2079  cat pscopy.txt | tail -n +2 | awk '{ print $8 }' | sort -u
+ 2080  cat pscopy.txt | tail -n +2 | awk '{ print "7a " $8 }' | sort -u
+ 2081  cat netcopy.txt 
+ 2082  cat netcopy.txt | grep root
+ 2083  cat netcopy.txt | grep root | awk '{ print $8 }'
+ 2084  cat netcopy.txt | grep root | awk '{ print $8 }' | sort -u
+ 2085  cat netcopy.txt | grep root | awk '{ print "8a " $8 }' | sort -u
+ 2086  cat netcopy.txt 
+ 2087  cat pscopy.txt 
+ 2088  ls -al
+ 2089  cat dircopy.txt 
+ 2090  cat report.txt | grep dircopy
+ 2091  cd ..
+ 2092  ls -al
+ 2093  cd ..
+ 2094  ls -al
+ 2095  ls -al >Documents/unix/DV1466/assignment-2/dircopy.txt 
+ 2096  cd Documents/unix/DV1466/assignment-2/
+ 2097  ls -al
+ 2098  cat dircopy.txt 
+ 2099  cat dircopy.txt | sort -c2
+ 2100  man sort
+ 2101  cat dircopy.txt | sort -k2
+ 2102  cat dircopy.txt | sort -k3
+ 2103  man sort
+ 2104  cat dircopy.txt | sort -r -k5
+ 2105  cat dircopy.txt | sort -r -k 5
+ 2106  cat dircopy.txt | sort -r -k 3
+ 2107  cat dircopy.txt | sort -r -k 5
+ 2108  cat dircopy.txt | sort -r -k3
+ 2109  cat dircopy.txt | sort -k3
+ 2110  cat dircopy.txt | sort -k2
+ 2111  cat dircopy.txt | sort -k1
+ 2112  cat dircopy.txt | sort -k2
+ 2113  cat dircopy.txt
+ 2114  cat dircopy.txt | tail -n +2
+ 2115  cat dircopy.txt | tail -n +2 | sort -k3
+ 2116  cat dircopy.txt | tail -n +2 | sort -k2
+ 2117  man sort | gre -n
+ 2118  man sort | grep -n
+ 2119  man sort | grep "-n"
+ 2120  man sort
+ 2121  cat dircopy.txt | tail -n +2 | sort -n -k2
+ 2122  cat dircopy.txt | tail -n +2 | sort -nr -k2
+ 2123  cat dircopy.txt | tail -n +2 | sort -nr -k2 | head -n1
+ 2124  cat dircopy.txt | tail -n +2 | sort -nr -k2 | head -n1 | awk {' print $8 }'
+ 2125  cat dircopy.txt | tail -n +2 | sort -nr -k2 | head -n1 | awk {' print $9 }'
+ 2126  cat histcopy.txt 
+ 2127  cat histcopy.txt | awk '{ print $2 }'
+ 2128  cat histcopy.txt | awk '{ print $2 }' | sort -u
+ 2129  cat histcopy.txt 
+ 2130  cat histcopy.txt | grep '
+ 2131  cat histcopy.txt | grep \\'
+ 2132  cat histcopy.txt | awk '{ print $2 }' | sort -u
+ 2133  cat report.txt | grep histcopy
+ 2134  history >histcopy.txt 

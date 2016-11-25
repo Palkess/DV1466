@@ -1,0 +1,198 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0 182732  5432 ?        Ss   Nov24   0:01 /sbin/init splash
+root         2  0.0  0.0      0     0 ?        S    Nov24   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    Nov24   0:00 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<   Nov24   0:00 [kworker/0:0H]
+root         7  0.0  0.0      0     0 ?        S    Nov24   0:02 [rcu_sched]
+root         8  0.0  0.0      0     0 ?        S    Nov24   0:00 [rcu_bh]
+root         9  0.0  0.0      0     0 ?        S    Nov24   0:01 [rcuos/0]
+root        10  0.0  0.0      0     0 ?        S    Nov24   0:00 [rcuob/0]
+root        11  0.0  0.0      0     0 ?        S    Nov24   0:00 [migration/0]
+root        14  0.0  0.0      0     0 ?        S    Nov24   0:00 [migration/1]
+root        15  0.0  0.0      0     0 ?        S    Nov24   0:00 [ksoftirqd/1]
+root        17  0.0  0.0      0     0 ?        S<   Nov24   0:00 [kworker/1:0H]
+root        18  0.0  0.0      0     0 ?        S    Nov24   0:00 [rcuos/1]
+root        19  0.0  0.0      0     0 ?        S    Nov24   0:00 [rcuob/1]
+root        21  0.0  0.0      0     0 ?        S    Nov24   0:00 [migration/2]
+root        22  0.0  0.0      0     0 ?        S    Nov24   0:00 [ksoftirqd/2]
+root        24  0.0  0.0      0     0 ?        S<   Nov24   0:00 [kworker/2:0H]
+root        25  0.0  0.0      0     0 ?        S    Nov24   0:01 [rcuos/2]
+root        26  0.0  0.0      0     0 ?        S    Nov24   0:00 [rcuob/2]
+root        28  0.0  0.0      0     0 ?        S    Nov24   0:00 [migration/3]
+root        29  0.0  0.0      0     0 ?        S    Nov24   0:00 [ksoftirqd/3]
+root        31  0.0  0.0      0     0 ?        S<   Nov24   0:00 [kworker/3:0H]
+root        32  0.0  0.0      0     0 ?        S    Nov24   0:00 [rcuos/3]
+root        33  0.0  0.0      0     0 ?        S    Nov24   0:00 [rcuob/3]
+root        34  0.0  0.0      0     0 ?        S<   Nov24   0:00 [khelper]
+root        35  0.0  0.0      0     0 ?        S    Nov24   0:00 [kdevtmpfs]
+root        36  0.0  0.0      0     0 ?        S<   Nov24   0:00 [netns]
+root        37  0.0  0.0      0     0 ?        S<   Nov24   0:00 [perf]
+root        38  0.0  0.0      0     0 ?        S    Nov24   0:00 [khungtaskd]
+root        39  0.0  0.0      0     0 ?        S<   Nov24   0:00 [writeback]
+root        40  0.0  0.0      0     0 ?        SN   Nov24   0:00 [ksmd]
+root        41  0.0  0.0      0     0 ?        SN   Nov24   0:00 [khugepaged]
+root        42  0.0  0.0      0     0 ?        S<   Nov24   0:00 [crypto]
+root        43  0.0  0.0      0     0 ?        S<   Nov24   0:00 [kintegrityd]
+root        44  0.0  0.0      0     0 ?        S<   Nov24   0:00 [bioset]
+root        45  0.0  0.0      0     0 ?        S<   Nov24   0:00 [kblockd]
+root        46  0.0  0.0      0     0 ?        S<   Nov24   0:00 [ata_sff]
+root        47  0.0  0.0      0     0 ?        S<   Nov24   0:00 [md]
+root        48  0.0  0.0      0     0 ?        S<   Nov24   0:00 [devfreq_wq]
+root        53  0.0  0.0      0     0 ?        S    Nov24   0:00 [kswapd0]
+root        54  0.0  0.0      0     0 ?        S    Nov24   0:00 [fsnotify_mark]
+root        55  0.0  0.0      0     0 ?        S    Nov24   0:00 [ecryptfs-kthrea]
+root        67  0.0  0.0      0     0 ?        S<   Nov24   0:00 [kthrotld]
+root        68  0.0  0.0      0     0 ?        S<   Nov24   0:00 [acpi_thermal_pm]
+root        74  0.0  0.0      0     0 ?        S<   Nov24   0:00 [ipv6_addrconf]
+root        93  0.0  0.0      0     0 ?        S<   Nov24   0:00 [deferwq]
+root        94  0.0  0.0      0     0 ?        S<   Nov24   0:00 [charger_manager]
+root       150  0.0  0.0      0     0 ?        S<   Nov24   0:00 [kpsmoused]
+root       151  0.0  0.0      0     0 ?        S    Nov24   0:00 [scsi_eh_0]
+root       152  0.0  0.0      0     0 ?        S<   Nov24   0:00 [scsi_tmf_0]
+root       153  0.0  0.0      0     0 ?        S    Nov24   0:00 [scsi_eh_1]
+root       154  0.0  0.0      0     0 ?        S<   Nov24   0:00 [scsi_tmf_1]
+root       155  0.0  0.0      0     0 ?        S    Nov24   0:00 [scsi_eh_2]
+root       156  0.0  0.0      0     0 ?        S<   Nov24   0:00 [scsi_tmf_2]
+root       157  0.0  0.0      0     0 ?        S    Nov24   0:00 [scsi_eh_3]
+root       158  0.0  0.0      0     0 ?        S<   Nov24   0:00 [scsi_tmf_3]
+root       173  0.0  0.0      0     0 ?        S    Nov24   0:00 [jbd2/sda5-8]
+root       174  0.0  0.0      0     0 ?        S<   Nov24   0:00 [ext4-rsv-conver]
+root       209  0.0  0.0      0     0 ?        S    Nov24   0:00 [kauditd]
+root       249  0.0  0.0  33332  4992 ?        Ss   Nov24   0:00 /lib/systemd/systemd-journald
+root       261  0.0  0.0  42036  3744 ?        Ss   Nov24   0:00 /lib/systemd/systemd-udevd
+root       301  0.0  0.0      0     0 ?        S<   Nov24   0:00 [kworker/2:1H]
+root       307  0.0  0.0      0     0 ?        S<   Nov24   0:00 [cfg80211]
+root       323  0.0  0.0      0     0 ?        S    Nov24   0:23 [irq/47-iwlwifi]
+root       361  0.0  0.0      0     0 ?        S<   Nov24   0:00 [kvm-irqfd-clean]
+root       371  0.0  0.0      0     0 ?        S<   Nov24   0:00 [kworker/1:1H]
+root       377  0.0  0.0      0     0 ?        S<   Nov24   0:00 [kworker/0:1H]
+root       413  0.0  0.0      0     0 ?        S<   Nov24   0:00 [led_workqueue]
+root       416  0.0  0.0      0     0 ?        S<   Nov24   0:00 [hd-audio0]
+root       419  0.0  0.0      0     0 ?        S<   Nov24   0:00 [hd-audio1]
+root       489  0.0  0.0      0     0 ?        S<   Nov24   0:00 [kworker/3:1H]
+systemd+   558  0.0  0.0 102336  2744 ?        Ssl  Nov24   0:00 /lib/systemd/systemd-timesyncd
+root       714  0.0  0.0  93096  7084 ?        Ss   Nov24   0:00 /usr/sbin/cupsd -l
+root       715  0.0  0.0  24632  4032 ?        Ss   Nov24   0:00 /usr/sbin/smartd -n
+avahi      720  0.0  0.0  30304  3076 ?        Ss   Nov24   0:00 avahi-daemon: running [Hammond.local]
+syslog     722  0.0  0.0 255896  3732 ?        Ssl  Nov24   0:00 /usr/sbin/rsyslogd -n
+root       726  0.0  0.0  19564  3800 ?        Ss   Nov24   0:00 /usr/sbin/bluetoothd -n
+root       732  0.0  0.1 400108 15248 ?        Ssl  Nov24   0:01 /usr/sbin/NetworkManager --no-daemon
+root       735  0.0  0.0  34348  3160 ?        Ss   Nov24   0:00 /usr/sbin/cron -f
+root       744  0.0  0.0  28540  3044 ?        Ss   Nov24   0:00 /lib/systemd/systemd-logind
+root       748  0.0  0.1 305040  8544 ?        Ssl  Nov24   0:00 /usr/lib/accountsservice/accounts-daemon
+mongodb    761  0.0  1.8 1378160 146608 ?      Ssl  Nov24   0:39 /usr/bin/mongod --config /etc/mongodb.conf
+root       762  0.0  0.0 336416  8048 ?        Ssl  Nov24   0:00 /usr/sbin/ModemManager
+root       765  0.0  0.0 158988  7952 ?        Ssl  Nov24   0:00 /usr/sbin/thermald --no-daemon --dbus-enable
+avahi      767  0.0  0.0  30188   240 ?        S    Nov24   0:00 avahi-daemon: chroot helper
+whoopsie   780  0.0  0.1 447928 11840 ?        Ssl  Nov24   0:00 /usr/bin/whoopsie -f
+root       784  0.0  0.0  19440  2184 ?        Ss   Nov24   0:00 /usr/sbin/irqbalance --pid=/var/run/irqbalance.pid
+message+   786  0.0  0.0  43784  4768 ?        Ss   Nov24   0:01 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+root       800  0.0  0.0 155992  7660 ?        Ssl  Nov24   0:00 /usr/sbin/cups-browsed
+root       820  0.0  0.0      0     0 ?        S<   Nov24   0:00 [iprt]
+root       828  0.0  0.1 303544  9896 ?        Ssl  Nov24   0:00 /usr/lib/policykit-1/polkitd --no-debug
+mysql      870  0.0  0.0   4472  1700 ?        Ss   Nov24   0:00 /bin/sh /usr/bin/mysqld_safe
+root       936  0.0  0.0  30752  6264 ?        Ss   Nov24   0:00 /sbin/wpa_supplicant -u -s -O /var/run/wpa_supplicant
+mysql     1223  0.0  1.6 794528 130948 ?       Sl   Nov24   0:06 /usr/sbin/mysqld --basedir=/usr --datadir=/var/lib/mysql --plugin-dir=/usr/lib/mysql/plugin --log-error=/var/log/mysql/error.log --pid-file=/var/run/mysqld/mysqld.pid --socket=/var/run/mysqld/mysqld.sock --port=3306
+root      1231  0.0  0.0 446560  7720 ?        Ssl  Nov24   0:00 /usr/sbin/gdm
+root      1238  0.4  1.0 406348 82084 tty7     Ssl+ Nov24  11:17 /usr/bin/X :0 -background none -noreset -verbose -auth /var/run/gdm/auth-for-gdm-9QktcK/database -seat seat0 -nolisten tcp vt7
+root      1240  0.0  0.0   4396  1924 ?        Ss   Nov24   0:00 /usr/sbin/acpid
+root      1262  0.0  0.0  21272  2132 tty1     Ss+  Nov24   0:00 /sbin/agetty --noclear tty1 linux
+root      1326  0.0  0.1 341020 11740 ?        Ssl  Nov24   0:00 /usr/lib/upower/upowerd
+colord    1340  0.0  0.1 321708 13860 ?        Ssl  Nov24   0:00 /usr/lib/colord/colord
+rtkit     1349  0.0  0.0 168956  2496 ?        SNsl Nov24   0:00 /usr/lib/rtkit/rtkit-daemon
+root      1401  0.0  0.1 385448  9532 ?        Ssl  Nov24   0:01 /usr/lib/udisks2/udisksd --no-debug
+nobody    1465  0.0  0.0  41508  3648 ?        S    Nov24   0:00 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/run/sendsigs.omit.d/network-manager.dnsmasq.pid --listen-address=127.0.1.1 --conf-file=/var/run/NetworkManager/dnsmasq.conf --cache-size=0 --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+kernoops  1536  0.0  0.0  35392  2560 ?        Ss   Nov24   0:00 /usr/sbin/kerneloops
+root      1630  0.0  0.2 173192 16540 ?        Sl   Nov24   0:08 /opt/teamviewer/tv_bin/teamviewerd -d
+root      1690  0.0  0.3 328152 28080 ?        Ss   Nov24   0:00 /usr/sbin/apache2 -k start
+www-data  1704  0.0  0.1 328224 10324 ?        S    Nov24   0:00 /usr/sbin/apache2 -k start
+www-data  1705  0.0  0.1 328224 10324 ?        S    Nov24   0:00 /usr/sbin/apache2 -k start
+www-data  1706  0.0  0.1 328356 10404 ?        S    Nov24   0:00 /usr/sbin/apache2 -k start
+www-data  1707  0.0  0.1 328224 10324 ?        S    Nov24   0:00 /usr/sbin/apache2 -k start
+www-data  1708  0.0  0.1 328356 10524 ?        S    Nov24   0:00 /usr/sbin/apache2 -k start
+root      1744  0.0  0.1 397976 10432 ?        Sl   Nov24   0:00 gdm-session-worker [pam/gdm-password]
+jonas     1781  0.0  0.0  42620  4508 ?        Ss   Nov24   0:00 /lib/systemd/systemd --user
+jonas     1782  0.0  0.0  60748  1832 ?        S    Nov24   0:00 (sd-pam)         
+jonas     1787  0.0  0.1 382164 12252 ?        SLl  Nov24   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+jonas     1793  0.0  0.1 562336 14776 ?        Ssl  Nov24   0:00 gnome-session --session=gnome
+jonas     1855  0.0  0.0  10748   328 ?        Ss   Nov24   0:00 /usr/bin/ssh-agent /usr/bin/dbus-launch --exit-with-session /usr/bin/im-launch gnome-session --session=gnome
+jonas     1858  0.0  0.0  24484  1920 ?        S    Nov24   0:00 /usr/bin/dbus-launch --exit-with-session /usr/bin/im-launch gnome-session --session=gnome
+jonas     1859  0.0  0.0  43476  3800 ?        Ss   Nov24   0:00 /usr/bin/dbus-daemon --fork --print-pid 5 --print-address 7 --session
+jonas     1876  0.0  0.1 367620 10712 ?        Ssl  Nov24   0:19 /usr/bin/ibus-daemon --daemonize --xim
+jonas     1879  0.0  0.0 198752  5812 ?        Sl   Nov24   0:00 /usr/lib/gvfs/gvfsd
+jonas     1884  0.0  0.1 347860  9048 ?        Sl   Nov24   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+jonas     1890  0.0  0.0 281472  7544 ?        Sl   Nov24   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+jonas     1895  0.0  0.0  42388  3620 ?        S    Nov24   0:00 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+jonas     1898  0.0  0.0 123200  4912 ?        Sl   Nov24   0:01 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+jonas     1900  0.0  0.0 284424  7696 ?        Sl   Nov24   0:00 /usr/lib/ibus/ibus-dconf
+jonas     1902  0.0  0.3 421884 28348 ?        Sl   Nov24   0:00 /usr/lib/ibus/ibus-ui-gtk3
+jonas     1906  0.0  0.2 320468 16376 ?        Sl   Nov24   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+jonas     1924  0.0  0.5 1069772 40432 ?       Sl   Nov24   0:01 /usr/lib/gnome-settings-daemon/gnome-settings-daemon
+jonas     1934  0.0  0.1 513328 11652 ?        S<l  Nov24   0:24 /usr/bin/pulseaudio --start --log-target=syslog
+jonas     1942  0.0  0.0 208556  7672 ?        Sl   Nov24   0:04 /usr/lib/ibus/ibus-engine-simple
+jonas     1949  0.0  0.0  22352  2520 ?        S    Nov24   0:00 syndaemon -i 1.0 -t -K -R
+jonas     1951  0.0  0.0 178756  4916 ?        Sl   Nov24   0:00 /usr/lib/dconf/dconf-service
+jonas     1955  0.0  0.1 419928 13280 ?        Sl   Nov24   0:00 /usr/lib/gnome-settings-daemon/gsd-printer
+jonas     1969  0.7  2.3 1712076 189936 ?      Sl   Nov24  19:17 /usr/bin/gnome-shell
+jonas     1978  0.0  0.2 467796 16836 ?        Sl   Nov24   0:00 /usr/lib/gnome-shell/gnome-shell-calendar-server
+jonas     1982  0.0  0.2 955004 23888 ?        Sl   Nov24   0:00 /usr/lib/evolution/evolution-source-registry
+jonas     1990  0.0  0.3 728212 28360 ?        Sl   Nov24   0:00 /usr/lib/gnome-online-accounts/goa-daemon
+jonas     1996  0.0  0.1 316728 12084 ?        Sl   Nov24   0:00 /usr/lib/telepathy/mission-control-5
+jonas     2005  0.0  0.1 378632  9300 ?        Sl   Nov24   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+jonas     2011  0.0  0.0 191028  4876 ?        Sl   Nov24   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+jonas     2015  0.0  0.1 327600 10540 ?        Sl   Nov24   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+jonas     2020  0.0  0.0 203200  7584 ?        Sl   Nov24   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+jonas     2024  0.0  0.0 189244  4820 ?        Sl   Nov24   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+jonas     2053  0.0  0.1 335580 11460 ?        SNl  Nov24   0:00 /usr/lib/tracker/tracker-miner-user-guides
+jonas     2057  0.0  0.1 303492 13588 ?        SNl  Nov24   0:00 /usr/lib/tracker/tracker-miner-apps
+jonas     2060  0.0  0.2 388304 22016 ?        Sl   Nov24   0:03 /usr/lib/tracker/tracker-store
+jonas     2061  0.0  0.6 1465616 51860 ?       SNl  Nov24   0:00 /usr/lib/tracker/tracker-extract
+jonas     2062  0.0  0.2 499408 19592 ?        SNl  Nov24   0:02 /usr/lib/tracker/tracker-miner-fs
+jonas     2089  0.0  0.7 1004644 60004 ?       Sl   Nov24   0:00 /usr/lib/evolution/evolution-calendar-factory
+jonas     2090  0.0  2.2 2983984 184484 ?      Ssl  Nov24   0:18 /home/jonas/.dropbox-dist/dropbox-lnx.x86_64-14.4.19/dropbox
+uuidd     2128  0.0  0.0  30496  1284 ?        Ss   Nov24   0:00 /usr/sbin/uuidd --socket-activation
+jonas     2138  0.0  0.0 117824  5672 ?        Sl   Nov24   0:00 /usr/lib/gvfs/gvfsd-metadata
+jonas     2197  0.0  0.2 504656 17520 ?        Sl   Nov24   0:00 zeitgeist-datahub
+jonas     2202  0.0  0.1 351264  8812 ?        Sl   Nov24   0:00 /usr/bin/zeitgeist-daemon
+jonas     2208  0.0  0.1 320192 15316 ?        Sl   Nov24   0:00 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+jonas     2224  0.0  0.0  12800   728 ?        S    Nov24   0:00 /bin/cat
+jonas     2243  0.0  0.5 776660 40980 ?        Sl   Nov24   0:00 /usr/lib/evolution/3.12/evolution-alarm-notify
+jonas     2347  0.0  0.3 436796 27340 ?        Sl   Nov24   0:00 update-notifier
+jonas     2399  0.0  0.1 300616  8296 ?        Sl   Nov24   0:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+jonas     2415  0.0  0.0  56708  5232 ?        S    Nov24   0:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+root      3016  0.0  0.0      0     0 ?        S    Nov24   0:00 [kworker/2:0]
+root      3116  0.0  0.0      0     0 ?        S    Nov24   0:01 [kworker/1:0]
+root      3246  0.0  0.0      0     0 ?        S<   Nov24   0:00 [krfcommd]
+root      3870  0.0  0.0      0     0 ?        S    Nov24   0:01 [kworker/0:1]
+root      4607  0.0  0.0      0     0 ?        S    Nov24   0:00 [kworker/3:0]
+root      4839  0.0  0.0      0     0 ?        S    Nov24   0:00 [kworker/1:1]
+root      5545  0.0  0.0      0     0 ?        S    Nov24   0:00 [kworker/2:1]
+jonas     5863  0.0  0.0 272388  4696 ?        Sl   Nov24   0:00 /usr/lib/gvfs/gvfsd-burn --spawner :1.1 /org/gtk/gvfs/exec_spaw/0
+root      5917  0.0  0.1  26192  9244 ?        Ss   Nov24   0:01 /sbin/mount.ntfs /dev/sda3 /media/jonas/OS -o rw,nodev,nosuid,uid=1000,gid=1000,uhelper=udisks2
+www-data  6026  0.0  0.1 328200  9032 ?        S    Nov24   0:00 /usr/sbin/apache2 -k start
+root      6734  0.0  0.0      0     0 ?        S    Nov24   0:00 [kworker/0:0]
+root      6756  0.0  0.0      0     0 ?        S    18:36   0:00 [irq/49-mei_me]
+root      6760  0.0  0.0      0     0 ?        S    18:36   0:00 [kworker/u8:27]
+root      6761  0.0  0.0      0     0 ?        S    18:36   0:00 [kworker/u8:28]
+root      6773  0.0  0.0      0     0 ?        S    18:36   0:00 [kworker/u8:40]
+root      6776  0.0  0.0      0     0 ?        S<   18:36   0:00 [kworker/u9:0]
+root      6777  0.0  0.0      0     0 ?        S<   18:36   0:00 [hci0]
+root      6778  0.0  0.0      0     0 ?        S<   18:36   0:00 [hci0]
+root      6779  0.0  0.0      0     0 ?        S<   18:36   0:00 [kworker/u9:1]
+root      6784  0.0  0.0      0     0 ?        S    18:36   0:00 [kworker/3:2]
+root      6858  0.0  0.1  23488 10272 ?        S    18:36   0:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /run/sendsigs.omit.d/network-manager.dhclient-wlan0.pid -lf /var/lib/NetworkManager/dhclient-53249c72-7267-4879-b8bd-72389a13cfef-wlan0.lease -cf /var/lib/NetworkManager/dhclient-wlan0.conf wlan0
+jonas     7001  0.2  0.4 619552 33812 ?        Sl   18:37   0:04 /usr/lib/gnome-terminal/gnome-terminal-server --app-id com.canonical.Terminal.xNgaoiElRJKtneRjhMuWunKGXdjmcjjj
+jonas     7010  0.0  0.0  14852  1852 ?        S    18:37   0:00 gnome-pty-helper
+jonas     7011  0.0  0.1  30856  8440 pts/0    Ss   18:37   0:00 bash
+jonas     7167  0.0  0.0  17920  1880 pts/0    S    18:37   0:00 /bin/bash /usr/bin/atom
+jonas     7169  0.1  1.4 1366692 120880 pts/0  Sl   18:37   0:03 /opt/atom/atom --executed-from=/home/jonas --pid=7156
+jonas     7171  0.0  0.3 305420 29624 pts/0    S    18:37   0:00 /opt/atom/atom --type=zygote --no-sandbox
+jonas     7191  0.0  1.4 508876 119484 pts/0   Sl   18:37   0:00 /opt/atom/atom --type=gpu-process --channel=7169.0.2 51987427 --mojo-application-channel-token=BA60CAE389A15F35AA07A1F11DA43452 --no-sandbox --window-depth=24 --x11-visual-id=32 --supports-dual-gpus=false --gpu-driver-bug-workarounds=4,47,55 --disable-gl-extensions=GL_ARB_occlusion_query GL_ARB_occlusion_query2 --gpu-vendor-id=0x8086 --gpu-device-id=0x1616 --gpu-driver-vendor --gpu-driver-version --gpu-driver-date --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+jonas     7201  0.3  2.2 1191000 183280 pts/0  Rl   18:37   0:05 /opt/atom/atom --type=renderer --no-sandbox --primordial-pipe-token=A1188FC49AC237CB726C35EEA610F1A9 --lang=en-US --node-integration=true --background-color=#fff --hidden-page --enable-pinch --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-accelerated-video-decode --mojo-channel-token=6E63B03BB1393B40F4D37D9DE2436B9A --mojo-application-channel-token=8C731A4FFCF1D31250606699D2F7B0EB --channel=7169.1.1689357705 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+jonas     7235  0.0  0.8 866604 65104 pts/0    Sl   18:37   0:00 /opt/atom/atom --eval require('/opt/atom/resources/app.asar/src/compile-cache.js').setCacheDirectory('/home/jonas/Dropbox/.atom/compile-cache'); require('/opt/atom/resources/app.asar/src/task-bootstrap.js');
+jonas     7312  1.9  5.4 1370844 438540 ?      Sl   18:38   0:28 /usr/lib/firefox/firefox
+jonas     7410  0.0  0.0 363288  7588 ?        Sl   18:39   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.1 /org/gtk/gvfs/exec_spaw/1
+jonas     7446  0.1  0.6 1122140 51752 ?       Sl   18:39   0:01 /usr/bin/nautilus --gapplication-service
+jonas     7472  0.4  1.9 987712 158372 ?       Sl   18:40   0:05 evince /home/jonas/Documents/unix/DV1466/CourseMaterial.pdf
+jonas     7477  0.0  0.0 104724  4116 ?        Sl   18:40   0:00 /usr/lib/evince/evinced
+jonas     7742  0.0  0.0  23896  2664 pts/0    R+   19:03   0:00 ps aux
