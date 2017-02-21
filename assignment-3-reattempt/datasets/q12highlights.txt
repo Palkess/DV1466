@@ -1,0 +1,80 @@
+[97m[97mBLACK[97m3.14[91m,::->[97mtao[97m`
+[97m"[97mWed[91m,::->[97mVOID[97mSat[97mYellow
+[97mchi[97mBlue[97mJul[97mMar[97mNILL[91m,::->
+[97mBLACK[97mPurple[91m,::->[97m110001[97mNULL[97m
+[97mBLACK[97mSat[97m$$[97mblah[91m,::->[97m$
+[97m101000[97m'[91m,::->[97m[97m$$$[97m$$
+[97mNILL[97mRed[91m,::->[97m`[97mNULL[97mJan
+[97mVOID[91m,::->[97m`[97m$[97mblah[97mVOID
+[97m3.1415[97m011110[91m,::->[97mSep[97mNULL[97m
+[97m000110[97mBLACK[97mpi[91m,::->[97m110011[97mfoo
+[97mpi[97mBlue[91m,::->[97mWHITE[97m100101[97mBLACK
+[97m3.1415[91m,::->[97mSat[97m001011[97mblah[97m
+[97m011010[91m,::->[97m [97m`[97mWHITE[97mMar
+[97m100101[97mBLACK[97m [91m,::->[97m2.8[97mDec
+[91m,::->[97mchi[97mBLACK[97m$$[97mfubar[97mMon
+[97m$$[97m3.14153[91m,::->[97mBLACK[97mMon[97m$$
+[97m [97mWHITE[97mSep[97mBlue[91m,::->[97m010101
+[97mblah[91m,::->[97mphi[97mNULL[97mtao[97mGreen
+[97m`[97m`[91m,::->[97m`[97mSun[97mNULL
+[97m [97m2.8[91m,::->[97m3.14153[97m001100[97m110101
+[91m,::->[97mMon[97m111001[97m$[97mWHITE[97mNULL
+[97mMay[97m$$$[97m"[97mVOID[97mYellow[91m,::->
+[97mPurple[97mNILL[97mJul[97mRed[97m110011[91m,::->
+[97mblah[97mPurple[97m010111[91m,::->[97m[97mYellow
+[97m$$$[91m,::->[97m[97mNILL[97mphi[97mWed
+[97mOrange[91m,::->[97m"[97mSun[97mMay[97mOrange
+[97mblah[97mWHITE[97m`[97m111111[97mBLACK[91m,::->
+[97mblah[91m,::->[97mVOID[97mBlue[97mpi[97mfubar
+[97mGreen[91m,::->[97m000011[97m3.14[97m$$$[97m
+[97mphi[97mfubar[97m$[91m,::->[97m010100[97mfubar
+[97mNov[97mFri[91m,::->[97mBLACK[97mApr[97mNILL
+[97mMon[97mphi[97m"[97mJul[97mGreen[91m,::->
+[97mWHITE[97mWed[97m3.14[97m3.1415[91m,::->[97mSep
+[97mWHITE[91m,::->[97mOct[97m110000[97mpi[97m"
+[97mpi[97mNULL[91m,::->[97mNILL[97m101100[97mBLACK
+[97mOct[97mphi[97m111011[91m,::->[97mJan[97mFri
+[97m100101[97m$[97mVOID[91m,::->[97mSun[97mWed
+[97mWHITE[97mfoo[97m'[97m`[97mtao[91m,::->
+[97m3.14[97mfoo[97m[97m [91m,::->[97mBLACK
+[97mThu[97mOrange[97mblah[97mBLACK[91m,::->[97m`
+[97mAug[91m,::->[97mfoo[97m'[97mTue[97m$$$
+[97mVOID[97mBLACK[97mWHITE[91m,::->[97mtao[97mWHITE
+[97mThu[97m3.1415[97mMon[97mWed[91m,::->[97mDec
+[97mchi[91m,::->[97m'[97m"[97mNILL[97mDec
+[97m011011[97m$$[97mBLACK[91m,::->[97mfubar[97m3.14153
+[97m$$[97mNILL[97m [97mtao[91m,::->[97mYellow
+[97m"[97mNULL[97mBlue[91m,::->[97m3.14[97mfoo
+[97mNILL[97m3.1415[97m [97m"[97m[91m,::->
+[97m2.8[97mWHITE[97mtao[97mfoo[91m,::->[97mTue
+[97m[91m,::->[97mphi[97mYellow[97mBlue[97mNULL
+[97mWHITE[91m,::->[97mNILL[97mOrange[97mWHITE[97m'
+[91m,::->[97mGreen[97mJan[97mMar[97m"[97m'
+[97mVOID[97m3.1415[97mVOID[97mfoo[97m`[91m,::->
+[91m,::->[97m111011[97mGreen[97m$[97mBlue[97mWHITE
+[97mNILL[97m'[91m,::->[97m3.1415[97mOrange[97mWed
+[97mblah[97mYellow[97mRed[97mGreen[91m,::->[97mRed
+[91m,::->[97mpi[97mPurple[97m"[97mDec[97mBLACK
+[97mWHITE[97m3.14153[91m,::->[97mVOID[97mfubar[97m3.1415
+[91m,::->[97m$[97m$$[97mYellow[97m[97m$$
+[97mWHITE[97mFri[97mGreen[97mNULL[91m,::->[97mtao
+[97m[97mThu[91m,::->[97mchi[97mSun[97mWHITE
+[97mFri[97mWHITE[97mWHITE[97m3.1415[91m,::->[97m$
+[97mFeb[97mBLACK[97mMon[97mNILL[97m'[91m,::->
+[97m$[97mRed[97mblah[97mBLACK[91m,::->[97m010001
+[91m,::->[97mPurple[97m001010[97mNILL[97m`[97mSat
+[91m,::->[97mWHITE[97mNov[97m100111[97mTue[97mFeb
+[91m,::->[97mMay[97mTue[97m [97mblah[97mVOID
+[97mphi[97mNILL[97mpi[97m [97mtao[91m,::->
+[97mMon[97mWed[91m,::->[97mchi[97mfubar[97m3.14153
+[97mSat[97mJul[97m3.14[91m,::->[97m [97mblah
+[97mMon[97mJan[97mJan[97mFri[97mchi[91m,::->
+[91m,::->[97mMay[97m [97m`[97m000101[97mNULL
+[97mWHITE[97mphi[91m,::->[97m3.1415[97m'[97mNULL
+[97m'[97mDec[91m,::->[97mOrange[97m[97m3.14153
+[97mBlue[97mNILL[97m111000[97mblah[91m,::->[97m
+[91m,::->[97mVOID[97mphi[97mTue[97mblah[97m'
+[97mfoo[91m,::->[97m [97m[97m3.14153[97m 
+[97mBLACK[97mBLACK[97m'[97mApr[91m,::->[97mBLACK
+[97m'[97mPurple[91m,::->[97mWHITE[97m'[97mfoo
+[97mphi[97mMay[97mWHITE[97m100010[91m,::->[97m000111

@@ -1,0 +1,80 @@
+BLACK3.14,::->tao`
+"Wed,::->VOIDSatYellow
+chiBlueJulMarNILL,::->
+BLACKPurple,::->110001NULL
+BLACKSat$$blah,::->$
+101000',::->$$$$$
+NILLRed,::->`NULLJan
+VOID,::->`$blahVOID
+3.1415011110,::->SepNULL
+000110BLACKpi,::->110011foo
+piBlue,::->WHITE100101BLACK
+3.1415,::->Sat001011blah
+011010,::-> `WHITEMar
+100101BLACK ,::->2.8Dec
+,::->chiBLACK$$fubarMon
+$$3.14153,::->BLACKMon$$
+ WHITESepBlue,::->010101
+blah,::->phiNULLtaoGreen
+``,::->`SunNULL
+ 2.8,::->3.14153001100110101
+,::->Mon111001$WHITENULL
+May$$$"VOIDYellow,::->
+PurpleNILLJulRed110011,::->
+blahPurple010111,::->Yellow
+$$$,::->NILLphiWed
+Orange,::->"SunMayOrange
+blahWHITE`111111BLACK,::->
+blah,::->VOIDBluepifubar
+Green,::->0000113.14$$$
+phifubar$,::->010100fubar
+NovFri,::->BLACKAprNILL
+Monphi"JulGreen,::->
+WHITEWed3.143.1415,::->Sep
+WHITE,::->Oct110000pi"
+piNULL,::->NILL101100BLACK
+Octphi111011,::->JanFri
+100101$VOID,::->SunWed
+WHITEfoo'`tao,::->
+3.14foo ,::->BLACK
+ThuOrangeblahBLACK,::->`
+Aug,::->foo'Tue$$$
+VOIDBLACKWHITE,::->taoWHITE
+Thu3.1415MonWed,::->Dec
+chi,::->'"NILLDec
+011011$$BLACK,::->fubar3.14153
+$$NILL tao,::->Yellow
+"NULLBlue,::->3.14foo
+NILL3.1415 ",::->
+2.8WHITEtaofoo,::->Tue
+,::->phiYellowBlueNULL
+WHITE,::->NILLOrangeWHITE'
+,::->GreenJanMar"'
+VOID3.1415VOIDfoo`,::->
+,::->111011Green$BlueWHITE
+NILL',::->3.1415OrangeWed
+blahYellowRedGreen,::->Red
+,::->piPurple"DecBLACK
+WHITE3.14153,::->VOIDfubar3.1415
+,::->$$$Yellow$$
+WHITEFriGreenNULL,::->tao
+Thu,::->chiSunWHITE
+FriWHITEWHITE3.1415,::->$
+FebBLACKMonNILL',::->
+$RedblahBLACK,::->010001
+,::->Purple001010NILL`Sat
+,::->WHITENov100111TueFeb
+,::->MayTue blahVOID
+phiNILLpi tao,::->
+MonWed,::->chifubar3.14153
+SatJul3.14,::-> blah
+MonJanJanFrichi,::->
+,::->May `000101NULL
+WHITEphi,::->3.1415'NULL
+'Dec,::->Orange3.14153
+BlueNILL111000blah,::->
+,::->VOIDphiTueblah'
+foo,::-> 3.14153 
+BLACKBLACK'Apr,::->BLACK
+'Purple,::->WHITE'foo
+phiMayWHITE100010,::->000111

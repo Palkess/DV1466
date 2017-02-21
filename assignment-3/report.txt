@@ -1,0 +1,24 @@
+1a cat datasets/q1data.txt | grep -o '\[->\]::,'
+1b Since I knew the exact pattern to look for I just had to search for the matching ones. I had some problem understanding how to escape the brackets but it was an easy lookup online.
+2a cat datasets/q2data.txt | grep -o ',->,'
+2b Same as question 1, I knew the exact pattern from the hits.txt file and I looked for the matching patterns in the text.
+4a cat datasets/q4data.txt | grep -o '(::[A-Z][a-z]*)'
+4b The pattern for q4hits was very easy to identify. It starts with a '(' followed by two ':' followed by an uppercase letter and an lowercase letter and ends with a ')'.
+5a cat datasets/q5data.txt | grep -o '[a-z]*.[<\|-][>\|-][a-z]*.[<\|-][>\|-][a-z]*.[<\|-][>\|-]'
+5b There are three words for each hit and between them there are variations of '<-' and '->'.
+6a cat datasets/q6data.txt | grep -o '[<\|-][>\|-][A-Z][a-z]*.[<\|-][>\|-][A-Z][a-z]*'
+6b In the beginning of each row there's always an 'arrow' which could point in different directions.
+6b There are two words on each row that always starts with a capital letter. Between the words there's an 'arrow'.
+7a cat datasets/q7data.txt | grep -o '[\[][a-z]*\][\[][a-z]*\]([a-z]*)'
+7b Pretty simple pattern to recognise. Two brackets with lowercase characters. Ends with a word in parentheses.
+8a cat datasets/q8data.txt | grep -o '[<\|-][>\|-][<\|-][>\|-][<\|-][>\|-]\|([a-z]*)\[[a-z]*\]([a-z]*)'
+8b Very similar to the past two questions so it was quite easy to identify the pattern but it was very tricky to put them together with '\|'
+8b to make some sort of OR-statement. I looked it up on a stackoverflow thread and started testing by wrapping the two statements in brackets, which didn't work,
+8b but I finally figured out I didn't need the wrapping brackets and it worked fine.
+9a cat datasets/q9data.txt | grep -o '[A-Z][a-z]*[/\|\\][+\|-]\|\[[A-Z][a-z]*\]'
+9b There were two basic patterns to account for in this question. It could either be a word within brackets or
+9b a word that starts with a capital letter and ends with a '-' or '+'. I began trying to combine it all in one statement
+9b to avoid using the '\|'-OR statement but it got too complicated and I decided to break it up instead into two statements.
+10a cat datasets/q10data.txt | grep -o '[<\|-][>\|-][0-9]\{4\}[<\|-][>\|-][0-9]\{4\}[<\|-][>\|-][0-9]\{4\}\|{[,\|.][a-z]*}'
+10b Again two patterns to take in consider with small variations. It looked pretty complicated at the beginning but as I broke
+10b each part down it was easier to focus on a specific pattern. Then it was just the matter of putting it all together.

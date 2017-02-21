@@ -1,0 +1,80 @@
+[97mtao[97mVOID[91m(7204/)[97m [97mFri[97mVOID
+[97m`[97mMon[97mfubar[97m3.1415[97mGreen[91m(9738/)
+[97mpi[97m`[91m(2081/)[97mNILL[97mfubar[97m3.14153
+[91m(1292/)[97m3.14153[97mVOID[97mblah[97mBlue[97mWed
+[97m101010[97m2.8[97mVOID[97mNILL[97m000001[91m(9622/)
+[97mSun[97mSat[97mTue[97m2.8[91m(5477/)[97mBlue
+[91m(1799/)[97mVOID[97mNULL[97m$$[97mBLACK[97mTue
+[97mfubar[97mNILL[97mphi[97mGreen[97m3.1415[91m(0517/)
+[97m [97mWHITE[91m(9958/)[97mNULL[97mfoo[97mphi
+[91m(8972/)[97m3.14153[97m`[97mJun[97mchi[97mMay
+[97m'[91m(3521/)[97mTue[97m$$$[97mWed[97m101010
+[97mNILL[97mFri[97m3.1415[97m[97mNov[91m(8961/)
+[97mJul[97mblah[97m[97m"[97m$$$[91m(2017/)
+[97mNULL[97m001111[97m111000[97mNov[97mfoo[91m(3222/)
+[97mJan[97mFeb[97mBlue[91m(3048/)[97m[97mchi
+[97mfoo[91m(2797/)[97m[97mfoo[97m'[97m`
+[97m011000[97m010100[97m011100[97mNILL[97m111010[91m(8926/)
+[97mtao[97mPurple[97m3.14153[91m(8035/)[97mJan[97m2.8
+[91m(5536/)[97m [97m010000[97mpi[97mVOID[97mSat
+[97mNULL[97mJul[91m(3475/)[97m2.8[97m$$$[97mVOID
+[97m$[97mWed[97mBLACK[97mfubar[97mNULL[91m(5967/)
+[97m [97mVOID[97mAug[97m'[91m(6892/)[97mpi
+[97mfubar[91m(7888/)[97mOrange[97mtao[97mphi[97mNILL
+[97m111101[97m3.1415[97m000111[97m$[97m101001[91m(4744/)
+[97mphi[97mNULL[91m(9186/)[97m$[97mchi[97m 
+[97mGreen[97mAug[97mfubar[91m(6646/)[97m3.14[97mWHITE
+[97m[97mtao[97mfubar[97mfoo[91m(4205/)[97mRed
+[97mblah[97m3.14153[97mpi[97m100111[97m2.8[91m(9084/)
+[97m111001[97m [97mNov[97mNILL[97m [91m(1405/)
+[97m"[97mBLACK[97mBlue[91m(2940/)[97mSun[97mNULL
+[97m`[97mBLACK[97mNULL[97m [91m(3335/)[97m$
+[91m(3466/)[97mfoo[97m [97m010100[97m111111[97m000111
+[97m3.14153[97m$$$[97mBLACK[91m(9045/)[97m[97mWed
+[97mfubar[97m$[97mMon[91m(2269/)[97mGreen[97mVOID
+[97m[91m(2649/)[97mWHITE[97m3.14[97mNov[97mApr
+[97m[97mfubar[97m3.1415[97m101000[97m110010[91m(3750/)
+[97mGreen[97m'[97mGreen[91m(0421/)[97m$$$[97m$
+[97m"[91m(6158/)[97m100010[97m"[97m[97m$$
+[97m2.8[97mOrange[97m$$$[97m[97mMon[91m(8040/)
+[97mfubar[97mSep[97m111000[91m(9786/)[97mNILL[97m
+[97m`[97mOct[91m(8134/)[97mYellow[97mWHITE[97mBLACK
+[97mchi[97m[97mApr[97mYellow[97mtao[91m(9653/)
+[97m"[97m010001[97mphi[97m'[97m"[91m(6776/)
+[97mphi[91m(9190/)[97mRed[97mblah[97m[97mYellow
+[97mphi[97m'[97mRed[97mfubar[91m(6869/)[97mWHITE
+[97mMay[97mtao[91m(7123/)[97mBlue[97mfubar[97mRed
+[91m(8382/)[97mVOID[97mWHITE[97m001011[97mTue[97m`
+[97mblah[97m$$[97mSun[97mJan[91m(2956/)[97mTue
+[97m000010[97mfoo[97mtao[97mSun[97m[91m(1265/)
+[97mOct[97m`[97m[97m'[97m`[91m(6460/)
+[97mMon[97mBLACK[97mNILL[91m(8410/)[97m'[97mWHITE
+[91m(1730/)[97mpi[97mNULL[97mSep[97mVOID[97mFri
+[97mNILL[91m(9169/)[97mMar[97m[97m$$$[97m3.14153
+[97mNULL[97m[97mblah[91m(2402/)[97mtao[97m3.14
+[97mtao[97mWHITE[97m'[97mfoo[97mblah[91m(9130/)
+[91m(4260/)[97m$$[97mBLACK[97mTue[97m2.8[97mtao
+[97mfoo[97m$$[97mDec[91m(5811/)[97m$[97m2.8
+[97m001110[91m(0688/)[97m3.1415[97mRed[97mOrange[97m`
+[91m(9904/)[97m011111[97mBlue[97m[97mFri[97mphi
+[97mchi[91m(4503/)[97mMar[97mFri[97mfoo[97m"
+[91m(2081/)[97m [97mRed[97m"[97mBlue[97mBLACK
+[97mFeb[91m(1441/)[97mNULL[97mJan[97mThu[97m000001
+[97mpi[97m101101[97m [97mNov[97mWed[91m(7285/)
+[97mApr[97mBLACK[97mVOID[97m'[91m(9420/)[97mMon
+[91m(5890/)[97mJun[97mTue[97mBLACK[97mBLACK[97mOrange
+[97mWHITE[97m011100[91m(7135/)[97mBlue[97m[97m'
+[97mNULL[97mFeb[91m(1035/)[97m[97m[97mVOID
+[97mGreen[97m000110[97m'[91m(5586/)[97mThu[97m3.14
+[97mBLACK[91m(4950/)[97m[97mPurple[97mfoo[97m"
+[97m110110[97m [91m(9999/)[97mNULL[97m101000[97mMar
+[91m(1933/)[97m [97mNILL[97mblah[97mYellow[97mNILL
+[97mSun[97mNULL[91m(0337/)[97mRed[97mFri[97mfubar
+[97m2.8[97m3.14[91m(4693/)[97m [97mWHITE[97mVOID
+[97m000010[97mWHITE[91m(9218/)[97mWed[97mBLACK[97m
+[91m(3675/)[97mNILL[97m3.1415[97m`[97m2.8[97mtao
+[97mDec[91m(9494/)[97mFri[97m$$$[97mNILL[97m`
+[97m110011[91m(0817/)[97mSat[97mOct[97mchi[97mchi
+[97mThu[97m"[97mSat[91m(1079/)[97mJan[97mBLACK
+[97mphi[97m101110[97mSat[97m$$[97mblah[91m(1981/)
+[97mYellow[91m(2079/)[97mSat[97mNULL[97m [97mBLACK

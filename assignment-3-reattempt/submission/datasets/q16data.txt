@@ -1,0 +1,80 @@
+'fubar{,5455}101100[-][-](-)BLACK 
+phi[-][-](+)pi{,4842}2.8$$$
+Mar'[-][-](-)"{,8196}taoFri
+foo3.14153{,2328}010000[-][+](+)3.14153tao
+Sep`{,9678}Nov[-][+](+)BLACK010111
+"2.8[+][-](+)Green{,4896}010000 
+2.8{,9104}Nov[+][+](+)VOID 
+NILLApr{,1395}Red[-][+](+)BLACKNULL
+ "[+][-](-) {,0256}chiAug
+BLACKJun{,6447}NILL[+][+](+)WHITEVOID
+110110$$$[+][+](+)2.8{,4548}NULLWHITE
+Tue$${,2532}Yellow[+][+](-)taoMay
+$$Jun{,7146}NILL[+][-](+)$$ 
+NULLOct[+][-](+)Jan{,1387}ThuMon
+piBLACK{,4478}Feb[+][+](-)blah
+WHITEYellow{,0034}000110[-][+](-)NILL100010
+Fri[-][-](+)blah{,3703}blah
+$foo{,5730}$[+][+](+)chiphi
+Thu{,0748}$$$[-][-](+)pitao
+"'[+][-](-)BLACK{,3613}111101foo
+blah3.14[+][-](-){,4008}WHITESun
+001100 [-][-](+)3.14153{,1494}pi
+Mayfubar{,2682}$$[+][+](-)fooBLACK
+fubar110011{,9006}Purple[+][+](-)011010Mon
+VOIDBLACK{,8160}tao[+][-](+)chiNULL
+chi {,7096}foo[-][+](+)  
+110100'{,3145}3.14153[-][-](-)fubarVOID
+blah010000[-][+](-)Feb{,5168}Aug3.14153
+NULL$${,7162}3.14[+][+](+)Tue 
+NILL2.8{,4141}2.8[+][+](+)111001001011
+3.14153chi{,7148}WHITE[+][+](+)$phi
+Novtao{,7217}VOID[-][+](+)fubar 
+VOIDblah{,3162}101001[+][-](+)SatBLACK
+Purple$[-][-](-)$${,9213}JulMay
+"WHITE[+][-](+)3.14153{,8919}`fubar
+blah2.8[+][+](-)NULL{,8116}001100NULL
+000100 {,0093}`[+][+](+)$3.1415
+Redfoo[+][-](+)chi{,5039}Green"
+ 000100{,6281}$$$[-][+](+)3.1415Fri
+3.14153pi[+][+](-)fubar{,4613}NILLBLACK
+BLACKpi[+][-](+)chi{,8822}011111 
+NILL3.14{,7854}VOID[+][+](+)pichi
+Jul$${,1870}Wed[-][+](-)chitao
+$$$Feb{,1523}3.1415[+][-](-)BlueVOID
+Red3.1415[+][-](+)${,1401}$$$WHITE
+$$NILL[-][-](-)fubar{,9014}3.1415011111
+`Blue[+][-](+)BLACK{,3235}'Sun
+010001Blue[-][+](-)'{,9341}`000001
+piWed[+][-](-)NULL{,6809}`2.8
+WHITE${,6663}3.14153[+][-](+)2.8$$
+Thu{,9219}foo[-][-](-)3.1415fubar
+$$BLACK{,6987}100100[+][+](+)111100phi
+Orange[+][-](+)"{,2041}blah$$
+ NILL{,2064}$$$[-][-](-)BLACK2.8
+Purple [+][+](+)000000{,9572}Satfoo
+NILLfubar{,1702}pi[+][+](+)GreenSun
+$3.14153[+][-](-)VOID{,0177}phifoo
+VOID000111{,5755}Apr[-][+](+)fubarSep
+'Mon{,3703}"[-][-](+)pi
+fubarVOID[+][-](-)000000{,4019}blah"
+fubarWed{,7776}`[-][-](+)000111111111
+ "[-][+](-)pi{,0698}3.14$$$
+ThuSep[+][-](+)NULL{,2731}foofubar
+$2.8[-][+](+)Aug{,9963}BLACK
+SepWed[-][+](-)'{,1296}RedNULL
+taofubar[+][+](-)fubar{,3741} Mon
+blah$$${,1277}Orange[-][+](-)Redfoo
+Redtao[-][-](-)$$${,6392}
+tao2.8[+][-](+)000111{,9577}001001010101
+taoGreen{,0479}NILL[+][-](+)foo101110
+1110113.14[-][-](-)3.14153{,6246}$$Thu
+BLACKJul[+][+](+)011110{,5802}RedTue
+SatWHITE{,0905}Wed[+][-](-)Green$$
+WHITEBlue{,9375}[+][-](-)Tue$
+pi[+][-](-)Sep{,6514}$$$Thu
+110100NULL[-][-](+)${,4409}Wed110110
+Yellow {,7007}NILL[+][-](+)PurpleFri
+DecNov{,0358}$[+][+](-)VOIDblah
+Green"[+][+](-)Red{,2644}3.14153 
+blahSat[+][+](+)3.14{,3916}chiFri

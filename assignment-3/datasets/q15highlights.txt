@@ -1,0 +1,80 @@
+[97mfubar[97mMon[91m-George[97mSun[91m7284::,[97mThu[97mWHITE
+[97m$[97m001011[91m7940::,[97mWHITE[91m-Tom[97mJul[97mBLACK
+[97mtao[97mNov[91m4193::,[97m100000[91m-Tom[97mchi[97m101001
+[97mBlue[97mpi[91m3598::,[97m`[91m-Edna[97mNov[97mYellow
+[97mYellow[97m[91m-Harry[97m`[91m0807::,[97mtao[97m101101
+[97mMar[97m [91m2113::,[97mApr[91m-Harry[97mBLACK[97m010100
+[97m3.14153[97mJun[91m-Tom[97m'[91m3431::,[97m2.8[97mBLACK
+[97mMon[97mphi[91m+George[97mfoo[91m0626::,[97m$$$[97m$$
+[97mWed[97m2.8[91m6704::,[97mGreen[91m+Tom[97mYellow[97mPurple
+[97m[97m$[91m+Harry[97m[91m7701::,[97m$$[97m$$$
+[97mApr[97mBLACK[91m+Tom[97mNULL[91m2165::,[97mMay[97m
+[97m"[97m`[91m9665::,[97mBLACK[91m+George[97m$$[97m101111
+[97mWed[97mfubar[91m1638::,[97m011011[91m+George[97mphi[97m
+[97mGreen[97mfubar[91m2710::,[97m$$$[91m+George[97mfubar[97mRed
+[97mfubar[97mBLACK[91m4106::,[97mfoo[91m-George[97m$$[97m$$$
+[97mfoo[97mYellow[91m+Edna[97mtao[91m2414::,[97mtao[97m`
+[97m$$[97mtao[91m-Edna[97m$$$[91m9904::,[97mchi[97mVOID
+[97mchi[97m100100[91m+Phil[97m`[91m2562::,[97m[97m010011
+[97mblah[97m"[91m-George[97m'[91m1585::,[97mWHITE[97m3.14
+[97m [97m$$$[91m8171::,[97mfubar[91m+Edna[97mNULL[97m$$
+[97m3.1415[97m$$$[91m3272::,[97mNov[91m-Edna[97m3.14153[97m000100
+[97mNILL[97m[91m4069::,[97m$[91m+Tom[97m[97m110001
+[97mfubar[97mTue[91m1414::,[97mFri[91m-Edna[97m$[97mfoo
+[97mblah[97mMay[91m-Harry[97m`[91m6645::,[97m101010[97m3.1415
+[97m`[97mOrange[91m+Tom[97m$[91m1957::,[97m"[97mSun
+[97m [97mblah[91m-Edna[97mpi[91m6922::,[97m`[97mYellow
+[97m`[97mNULL[91m1959::,[97m`[91m+Tom[97mBLACK[97m010010
+[97mOct[97m [91m7936::,[97mchi[91m+George[97mfubar[97m"
+[97m`[97m`[91m5405::,[97mAug[91m+Tom[97m111011[97m000001
+[97m110010[97m3.1415[91m1813::,[97mJan[91m-Harry[97mNULL[97mfoo
+[97m"[97m`[91m2738::,[97mOrange[91m+Edna[97mtao[97mchi
+[97mfubar[97m[91m1745::,[97mNULL[91m-Edna[97mFri[97m001001
+[97mJul[97mSep[91m-Harry[97m3.14153[91m4160::,[97mSun[97mWHITE
+[97mOrange[97m$$$[91m-Edna[97mfoo[91m1015::,[97mNULL[97mfubar
+[97m[97mfubar[91m3601::,[97mfoo[91m+Harry[97mMon[97m011001
+[97mpi[97m100111[91m-Tom[97mTue[91m7561::,[97m2.8[97mAug
+[97mSun[97m000101[91m8009::,[97mVOID[91m+Phil[97m000001[97mAug
+[97mRed[97mpi[91m0824::,[97mBLACK[91m-George[97mRed[97mNULL
+[97mfoo[97mBLACK[91m9476::,[97mpi[91m+Tom[97m3.14153[97m$
+[97mblah[97mJan[91m+Phil[97mFeb[91m2944::,[97m [97m3.14
+[97m100000[97m$[91m+George[97mtao[91m3794::,[97mBLACK[97mWHITE
+[97m$$[97m[91m-Edna[97mfoo[91m0539::,[97m011000[97m'
+[97mNULL[97mfoo[91m-Edna[97mBLACK[91m9496::,[97m [97mSat
+[97mBlue[97mMon[91m-George[97m3.14[91m8824::,[97mblah[97m010110
+[97mSep[97mWHITE[91m8559::,[97mBLACK[91m-Harry[97m [97m010110
+[97mblah[97m$[91m-George[97mfoo[91m9654::,[97mJan[97m"
+[97mBLACK[97mNILL[91m5055::,[97mThu[91m+Phil[97mtao[97mBlue
+[97mYellow[97m`[91m5183::,[97mSun[91m+Edna[97m[97m010110
+[97mfoo[97mJul[91m0509::,[97mWHITE[91m+Edna[97m3.1415[97mphi
+[97m$$[97m`[91m-Edna[97m000000[91m4005::,[97m$$[97mNILL
+[97m$[97m`[91m+Phil[97m$$[91m3228::,[97mYellow[97mpi
+[97m$[97m101010[91m+Harry[97mchi[91m9110::,[97m[97mNULL
+[97m$$[97mpi[91m9121::,[97mRed[91m-Harry[97mNILL[97m2.8
+[97mBLACK[97m'[91m-Phil[97mBLACK[91m3229::,[97mJun[97m001110
+[97m`[97mWHITE[91m+Edna[97m[91m1441::,[97m$$[97mWed
+[97m[97mTue[91m7327::,[97m011001[91m-Tom[97mblah[97mWHITE
+[97mYellow[97mOct[91m-Harry[97m`[91m1007::,[97m2.8[97mOrange
+[97m$[97m001010[91m+Tom[97mRed[91m3242::,[97m3.14153[97mtao
+[97m010001[97mOrange[91m1366::,[97m2.8[91m+Phil[97mNILL[97mpi
+[97m[97mTue[91m-Edna[97m [91m5807::,[97mPurple[97mNULL
+[97mfubar[97m2.8[91m6079::,[97mRed[91m+George[97m2.8[97mblah
+[97mchi[97m$$[91m-Tom[97mMon[91m9210::,[97m$$$[97mVOID
+[97m [97mphi[91m-George[97mBlue[91m2683::,[97m3.1415[97mVOID
+[97m001100[97mchi[91m3007::,[97m$$$[91m+George[97mDec[97m$$
+[97m'[97mTue[91m9232::,[97mBLACK[91m+Edna[97mVOID[97mWHITE
+[97m000111[97mfoo[91m+Tom[97m[91m3085::,[97m[97mfubar
+[97mAug[97mBLACK[91m-George[97mBLACK[91m3948::,[97mVOID[97m`
+[97mblah[97m`[91m-Harry[97m3.14[91m1575::,[97mFri[97mOrange
+[97m [97mNULL[91m+George[97mchi[91m8719::,[97m110100[97mBLACK
+[97m$$[97m001001[91m7793::,[97mblah[91m-Tom[97m001011[97m
+[97m$[97mfubar[91m-Phil[97m[91m5704::,[97m100100[97mfubar
+[97m[97m'[91m7457::,[97mThu[91m-Tom[97mphi[97mYellow
+[97m$[97mAug[91m1780::,[97m$$[91m-Tom[97m[97m$
+[97m'[97mWHITE[91m8761::,[97mTue[91m-George[97mMay[97mfubar
+[97mpi[97mNILL[91m0224::,[97m$$[91m+George[97m [97mOrange
+[97m"[97m"[91m6841::,[97m110011[91m-Phil[97m2.8[97mRed
+[97mWHITE[97mBLACK[91m+Phil[97mVOID[91m6949::,[97m[97mOct
+[97mWHITE[97m$$$[91m5489::,[97mtao[91m+Phil[97mfubar[97m$
+[97mVOID[97m$$$[91m+Harry[97mYellow[91m9940::,[97mNILL[97mphi
+[97m$[97mThu[91m3052::,[97m$[91m-Phil[97mtao[97mNULL

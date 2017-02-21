@@ -1,0 +1,80 @@
+Blue (:;:)blah(::)3.1415BLACK
+$Nov(:;:)Red(::)phiOrange
+3.14153110010(::)2.8(:;:)3.1415BLACK
+tao (:;:)NULL(:;:)Red3.1415
+taoNULL(:;:)Fri(:;:)`VOID
+Tue010000(::)Green(:;:)$$$BLACK
+WedSat(:;:)chi(:;:)'fubar
+NULLMar(:;:)2.8(:;:)WedOct
+3.1415phi(:;:)fubar(::)'$
+YellowTue(:;:)chi(::)GreenJul
+2.8$(:;:)Mon(:;:)110101 
+"Sat(::)2.8(:;:)3.1415WHITE
+3.14153.14153(::)BLACK(:;:)phi3.1415
+VOIDApr(::) (::)WHITEBLACK
+PurpleWHITE(::) (:;:)Jul
+NILLWHITE(::)`(::)fooNILL
+"fubar(:;:)WHITE(::)blahNILL
+BLACKGreen(:;:)WHITE(::)WHITE$$$
+VOID111010(::)$(:;:)piAug
+NILL(::)101100(::)JulDec
+$foo(:;:)phi(:;:)000100VOID
+phi000101(:;:)BLACK(::)BLACKYellow
+JanDec(::)foo(::)111101Dec
+Jan$$$(::) (::)`Tue
+fubar3.14153(:;:) (::)BLACKWHITE
+2.82.8(:;:)BLACK(::)$$Jul
+TueWHITE(::) (:;:)BLACK'
+$$$110111(::)100011(:;:)SatMon
+pi`(::) (::)blahfoo
+fubarfoo(::)BLACK(:;:)Novfoo
+fooFeb(::)$$$(:;:)chi`
+RedRed(:;:) (:;:)$$
+NULL(::)$$(:;:)Sattao
+$$$$$(::)fubar(:;:)VOID3.14
+taophi(:;:)3.14153(::) BLACK
+VOID`(::)fubar(::)``
+NILL$(::)'(::)Nov"
+MonBLACK(::)fubar(:;:)Sat 
+Red$$(:;:)NULL(:;:)'$$$
+100011$$$(:;:) (:;:)MayTue
+chi$$(::)'(:;:)001101WHITE
+`blah(::)NILL(:;:)NULLMon
+101010Fri(:;:)blah(::)'3.14153
+AugSun(:;:)Yellow(::)2.8Mon
+piWed(::)Feb(:;:)NULL011111
+$$"(:;:)BLACK(::)Greentao
+Orangeblah(:;:)'(::)NILL3.14
+BLACKfubar(:;:)Sun(::)3.14Orange
+JanBLACK(:;:) (:;:)taoSat
+FriRed(::)$(:;:)Sat"
+blah3.14153(:;:)010110(:;:)Orange`
+NILL(:;:)phi(:;:)WHITEpi
+Sat'(:;:) (::)Sat
+Red$(::)Red(::)BLACK`
+SepYellow(::)`(:;:)BLACK101111
+foophi(::)Feb(:;:)NILL011011
+Red`(:;:)phi(::)piNILL
+BLACK$(::)$(:;:)`$
+NILLOrange(::)foo(::)WedNILL
+SunOct(:;:)WHITE(:;:)3.1415Yellow
+WHITE`(:;:)3.14(:;:)YellowNULL
+$$$000100(::)Red(:;:)$blah
+2.8WHITE(::)(:;:)blah`
+BLACKPurple(::)`(::)000101$$
+3.1415010100(::)'(:;:)$NULL
+piSep(:;:)3.14153(::)2.8 
+WHITEMar(::)$$$(:;:)3.14153phi
+fubar3.14153(::)VOID(::)blah2.8
+$BLACK(:;:)(:;:)3.14NILL
+NULL(::)pi(::)$$$$
+1011113.14153(:;:) (::)3.14'
+Bluetao(:;:)Mar(::)3.14Oct
+ VOID(:;:)100100(::)3.143.14
+Apr (::)(::)SatGreen
+blahfubar(:;:)chi(::)SatYellow
+'Fri(:;:)fubar(:;:)OrangeJun
+chiThu(:;:)3.14153(::)tao
+3.1415WHITE(:;:)"(:;:)Sat
+$$tao(::)BLACK(::)blahOct
+Augtao(::)Sat(::)Marphi

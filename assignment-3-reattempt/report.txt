@@ -1,0 +1,55 @@
+1a cat datasets/q1data.txt | grep -o '[A-Z][a-z]*,,'
+1b The pattern starts with a uppercase letter, followed by
+1b various length of lowercase letters and ends with two commas.
+2a cat datasets/q2data.txt | grep -o '{::}[A-Z][a-z]*/'
+2b The pattern starts with two semicolons enclosed in curly brackets,
+2b followed by an uppercase letter, various length of lowercase letters
+2b and ends with a forward slash.
+3a cat datasets/q3data.txt | grep -o '\[[0-9]\{8\}\]'
+3b The pattern starts with an opening bracket followed by eight digits
+3b and ends with a closing bracket.
+4a cat datasets/q4data.txt | grep -o '{[0-9]\{4\}}->/'
+4b The pattern consists of four digits enclosed in curly brackets followed
+4b by a dash and a closing angular bracket.
+5a cat datasets/q5data.txt | grep -o '[A-Z][a-z]*[0-9]\{4\}[A-Z][a-z]*[0-9]\{4\}[A-Z][a-z]*[0-9]\{4\}'
+5b The pattern consists of a uppercase letter followed by various length of
+5b lowercase letters followed by four digits and the pattern is repeated three
+5b times in each entry.
+6a cat datasets/q6data.txt | grep -o '([A-Z][a-z]*)'
+6b The pattern starts with a opening parenthesis followed by a uppercase letter
+6b followed by various length of lowercase letters and ending with a closing parenthesis.
+7a cat datasets/q7data.txt | grep -o '\(+\|-\)[a-z]*\(+\|-\)[a-z]*\(lm\|is\|yo\)'
+7b The pattern starts with either a plus or dash followed by a lowercase word of various length
+7b followed by a plus or dash followed by a lowercase word of various length that ends with either
+7b lm, is or yo.
+8a cat datasets/q8data.txt | grep -o '\({::}\|{:;:}\)\([a-z]*\|[A-Z][a,d,e,g-o,q-z]*\)\([T,H,G,E][a,d-e,g,i-o,q-s,y]*\|Phil\|\)'
+8b The pattern starts with either two colons enclosed in curly brackets or a colon, followed by a semicolon followed by a colon
+8b enclosed in curly brackets. The pattern then continues with either lowercase letters or a uppercase letter followed by the acceptable
+8b lowercase letters in various length. After that there could be nothing, an acceptable uppercase letter followed by various length of
+8b acceptable lowercase letters or the word 'Phil'.
+9a cat datasets/q9data.txt | grep -o '([A-Z][a-z]*)\(/\|\\\|+\|-\)\(+\|-\|\)'
+9b The pattern starts with a opening parenthesis followed by a uppercase letter
+9b followed by a various length of lowercase letters followed by a closing parenthesis.
+9b Followed by either a forward slash, backwards slash, plus or dash. It ends with either
+9b a plus, dash or nothing at all.
+10a cat datasets/q10data.txt | grep -o '{[a-z]*}\(/\|\\\|:\)\(:\|;\)\(:\|;\|\)\(:\|\)'
+10b The pattern starts with a lowercase word enclosed in curly brackets followed by
+10b either a forward slash, backward slash or a colon. Followed by either a colon or
+10b semicolon, followed by either a colon, semicolon or nothing. Followed by either a
+10b colon or nothing.
+11a cat datasets/q11data.txt | sed -ne 's/.*\({::}->[A-Z][a,d-e,g-o,q-s,u-z]*\).*/\/5930,\1[,]\/,/p'
+11b The patterns starts with two colons enclosed in curly brackets followed by a dash and a closing angular bracket,
+11b followed by a uppercase letter followed by various length of lowercase letters. I only include the range of
+11b lowercase letters that's needed for the desired output.
+12a cat datasets/q12data.txt | sed -ne 's/.*\(,::->\).*/(->Harry)\1[\/,]/p'
+12b The pattern starts with a comma followed by two colons and ends with a dash and closing angular bracket.
+13a cat datasets/q13data.txt | sed -ne 's/.*\((\(::\|:;:\))\).*\((\(::\|:;:\))\).*/{\/\/}\1(Tom\/)\3{\/,}/p'
+13b The pattern starts with a opening parenthesis, followed by either two colons or a colon followed by a semicolon
+13b followed by another colon. Both choices ends with a closing parenthesis. This pattern occurs twice on each line.
+14a cat datasets/q14data.txt | sed -ne 's/.*\(\[\(<\|-\)\(>\|-\)\]\[\(<\|-\)\(>\|-\)\]{\(<\|-\)\(>\|-\)}\).*\(\[\(<\|-\)\(>\|-\)\]\[\(<\|-\)\(>\|-\)\]{\(<\|-\)\(>\|-\)}\).*/[::,]\1[,]5052,\8(::)->Tom/p'
+14b The pattern starts with an opening bracket followed by either a opening angular bracket or a dash, followed by either a closing angular bracket or a dash. Followed by a closing bracket.
+14b This part of the pattern is repeated twice in a row so I copied it. After the two sets of brackets, the pattern continues with a similar sequence of literals except the brackets that are
+14b being used is curly brackets. This whole sequence is copied to cover both occurrences on the same line and the result is combined with the consistent literals. I think I could've made the pattern
+14b catch all matches in the same line using a single sequence of the pattern but I ran out of time to find the correct method as 's/PATTERN/\1/g' only gave the first match. In question 15 and 16 I had a
+14b similar problem where the multiple commands using 's/PATTERN/g ; s/PATTERN/g' didn't work and only executed the first command. Maybe you have some input on why, I couldn't find
+14b an explanation online or in the slides.

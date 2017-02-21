@@ -1,0 +1,80 @@
+[97mblah[97m3.14[91m{::}->Harry[97m3.14[97mOct[97mGreen
+[97mWHITE[97m [97m$$[91m{::}->Phil[97m$$$[97mWHITE
+[97mVOID[97m3.1415[97mfubar[97m$$$[97mNILL[91m{::}->Harry
+[91m{::}->Harry[97mfoo[97m110110[97mFri[97m101111[97mfubar
+[97m$$[91m{::}->George[97mVOID[97m [97m3.1415[97mVOID
+[91m{::}->George[97mWHITE[97mtao[97m100010[97mBlue[97mWed
+[97m [97mNULL[91m{::}->Phil[97mNILL[97mGreen[97mfubar
+[97m101000[97mWHITE[97mchi[91m{::}->Harry[97mGreen[97mWed
+[97m3.14153[97mphi[97m`[91m{::}->Tom[97mWed[97mfubar
+[97m[97mSat[91m{::}->George[97m$[97mSun[97m'
+[97mNILL[97m$[91m{::}->George[97m [97m001110[97mRed
+[91m{::}->George[97mpi[97mfoo[97mYellow[97m3.1415[97m$
+[91m{::}->Phil[97mFri[97mWHITE[97m"[97mblah[97m2.8
+[97mblah[97mWHITE[97mRed[91m{::}->Edna[97mNULL[97m 
+[97m$$$[97m$[97mchi[97m[97mWHITE[91m{::}->Edna
+[97mpi[97m010110[97mtao[97mOrange[97mWed[91m{::}->Edna
+[97m$[97m[97mMon[97mNULL[91m{::}->Edna[97mWHITE
+[97m`[97mblah[97m001101[91m{::}->Edna[97m"[97mNov
+[97m[91m{::}->Edna[97m$$$[97mBLACK[97m100000[97mOrange
+[97mMar[91m{::}->Phil[97mFeb[97mWHITE[97mVOID[97m$
+[97mOrange[97mNULL[97mblah[91m{::}->George[97mWHITE[97mtao
+[97m3.14153[97mAug[91m{::}->George[97mMon[97mphi[97mWHITE
+[97m3.14[97mNILL[97mVOID[97mtao[91m{::}->George[97mchi
+[91m{::}->Harry[97mfubar[97mchi[97mfoo[97m"[97mfubar
+[97mNov[97mOrange[91m{::}->Phil[97mtao[97mFri[97mfoo
+[91m{::}->Harry[97mVOID[97m$$$[97mOrange[97mGreen[97m111101
+[91m{::}->Tom[97m"[97m [97m010001[97mpi[97m$
+[97m$[97m2.8[97mBLACK[97mBlue[97mWHITE[91m{::}->Harry
+[97mfoo[97mpi[97m [91m{::}->Tom[97m"[97m`
+[97m3.14[97m3.1415[97mfubar[91m{::}->Phil[97m$[97m
+[97m100001[97m011110[97m$$[97mFri[91m{::}->Phil[97mchi
+[91m{::}->Phil[97mNILL[97mfoo[97m'[97m$[97mBlue
+[97mfubar[97mFri[97m2.8[97mpi[91m{::}->Edna[97m001001
+[97m011101[97mphi[97m3.1415[97m110001[97mchi[91m{::}->Tom
+[91m{::}->Edna[97m"[97mRed[97m[97mSun[97m$
+[97m`[97m011001[97mWHITE[97m101000[91m{::}->George[97mWHITE
+[91m{::}->Phil[97mGreen[97mphi[97m[97mBLACK[97mGreen
+[97mPurple[91m{::}->Phil[97m$[97mfubar[97m$$[97mMon
+[97mblah[97mMon[97mchi[97m110010[97mVOID[91m{::}->George
+[97m100001[97mBLACK[91m{::}->George[97m111100[97m'[97mphi
+[97mNULL[97mphi[97mWHITE[97mSep[91m{::}->Tom[97m011110
+[97mWed[91m{::}->Phil[97m2.8[97mWHITE[97mFri[97mfoo
+[91m{::}->Harry[97mFri[97m001101[97mfoo[97mblah[97m"
+[97m$[97mfoo[97mfubar[97m011101[91m{::}->Edna[97m101010
+[97mDec[97m [97mblah[91m{::}->George[97m[97mchi
+[97mSun[97m010000[91m{::}->George[97mPurple[97mSep[97mMon
+[97mSun[97m$$$[91m{::}->Harry[97mMar[97m'[97mNov
+[91m{::}->Tom[97m`[97mfoo[97m3.14153[97mMay[97mOrange
+[97mchi[91m{::}->Tom[97mSat[97mMon[97m2.8[97m3.14
+[97mchi[91m{::}->Phil[97m"[97mNULL[97m3.14153[97m001111
+[97mchi[97mMon[97mVOID[91m{::}->Edna[97m[97m3.1415
+[91m{::}->George[97mWHITE[97m$$$[97mYellow[97mVOID[97m 
+[97mfoo[97mblah[97m$[97mJul[91m{::}->Tom[97mBlue
+[97mThu[97m$$$[97m [97m010110[91m{::}->Phil[97mDec
+[97m`[91m{::}->Tom[97mNILL[97m[97m"[97m011111
+[97m3.14[97mWed[97mJan[97m[91m{::}->Harry[97m3.1415
+[91m{::}->Tom[97m011100[97m110110[97mNILL[97mVOID[97m'
+[97mBLACK[97mBLACK[97m"[91m{::}->George[97m$$$[97m"
+[91m{::}->George[97m'[97m$$$[97mphi[97mpi[97mWHITE
+[97mblah[97mfoo[91m{::}->Phil[97mGreen[97mOrange[97mblah
+[97m"[97mOrange[91m{::}->George[97m [97m[97mWHITE
+[97m2.8[97m [97mMar[97m010110[97mYellow[91m{::}->Tom
+[97mfubar[97mJul[97mGreen[97mNULL[91m{::}->Edna[97m010111
+[97mWHITE[91m{::}->Tom[97m$[97mNULL[97mpi[97m 
+[97m"[97mSun[97mSat[91m{::}->Edna[97m'[97m010011
+[91m{::}->Edna[97m3.1415[97m"[97mchi[97mOrange[97mOct
+[97m3.14153[97mWHITE[97mSat[97m[97mDec[91m{::}->Phil
+[97m$$[97m100001[97mSep[97mBLACK[91m{::}->Phil[97m
+[97m`[97mpi[91m{::}->Edna[97mNULL[97m101111[97m 
+[97mVOID[97mRed[91m{::}->George[97m [97mVOID[97m`
+[97mVOID[97mphi[97m2.8[97m$[91m{::}->Tom[97m010011
+[97m [97mfoo[91m{::}->Edna[97mchi[97mNov[97mfoo
+[97m [97mRed[97m$$$[91m{::}->Phil[97m$[97m
+[97m`[97m`[91m{::}->George[97mfoo[97mDec[97m3.14
+[97mBLACK[97m[97m'[97m`[97mMay[91m{::}->Edna
+[97m3.1415[97mfoo[97m000100[91m{::}->Harry[97m3.14153[97m3.1415
+[97mMar[91m{::}->Harry[97mphi[97m`[97m3.1415[97m"
+[97m$[97mBlue[91m{::}->George[97mWHITE[97mSat[97mWHITE
+[97mThu[91m{::}->Edna[97mThu[97mchi[97mfoo[97mphi
+[91m{::}->Phil[97m$$[97m010110[97mOrange[97m3.1415[97m3.14153

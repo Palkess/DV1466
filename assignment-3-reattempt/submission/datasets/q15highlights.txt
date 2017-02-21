@@ -1,0 +1,80 @@
+[97mBLACK[97m3.1415[91m[-](+){+}[97mblah[91m[Phil::][97mfubar[97m3.14153
+[97mDec[97m111100[91m[+](+){-}[97mYellow[91m[Tom::][97m [97m$$$
+[97mchi[97mNILL[91m[Harry::][97mOct[91m[-](+){-}[97mYellow[97m$$
+[97m$[97m[91m[-](-){-}[97mNILL[91m[Edna::][97m100010[97mVOID
+[97mfubar[97mTue[91m[+](+){+}[97m$[91m[Phil::][97mVOID[97mTue
+[97mApr[97mSun[91m[-](+){+}[97mMon[91m[George::][97mFri[97mfubar
+[97mApr[97m3.1415[91m[-](+){+}[97mJan[91m[Harry::][97m3.14153[97mblah
+[97mApr[97mWHITE[91m[-](-){+}[97mNILL[91m[Tom::][97mBLACK[97m'
+[97mJul[97mBLACK[91m[Edna::][97m$$$[91m[+](+){-}[97mtao[97m010000
+[97m$[97m [91m[Phil::][97m3.14[91m[+](+){+}[97mOrange[97mBlue
+[97m[97mPurple[91m[-](-){-}[97mMon[91m[Harry::][97m$$[97mSat
+[97m010011[97m [91m[George::][97m3.14[91m[-](+){+}[97m`[97m$$$
+[97mRed[97m000100[91m[+](-){+}[97m3.14153[91m[Harry::][97mWHITE[97mJan
+[97m$[97m3.1415[91m[Harry::][97mVOID[91m[+](-){-}[97m$$$[97m'
+[97m'[97mYellow[91m[+](-){-}[97mNILL[91m[Tom::][97mVOID[97m
+[97mWHITE[97mblah[91m[-](+){+}[97m110011[91m[George::][97m [97m$$
+[97m100100[97mNILL[91m[Phil::][97mblah[91m[+](-){+}[97m$$$[97m$
+[97m$$$[97mPurple[91m[-](+){-}[97mfoo[91m[Tom::][97mphi[97mYellow
+[97m[97mJun[91m[-](-){-}[97m[91m[Edna::][97m111001[97m'
+[97mRed[97mThu[91m[+](+){-}[97mfoo[91m[Harry::][97m[97m$
+[97mfubar[97mYellow[91m[Tom::][97m3.14153[91m[-](-){+}[97mfubar[97m111101
+[97m3.1415[97m001110[91m[Edna::][97mOrange[91m[+](-){-}[97mFeb[97mWHITE
+[97m3.1415[97m$$[91m[George::][97mNILL[91m[+](-){-}[97mSun[97mfoo
+[97mVOID[97m$$[91m[+](-){+}[97m[91m[George::][97m[97mblah
+[97mchi[97mNULL[91m[Edna::][97mNILL[91m[-](-){-}[97m[97mVOID
+[97mMay[97mBLACK[91m[-](-){+}[97m [91m[Edna::][97mfubar[97m3.1415
+[97m$$$[97mFri[91m[-](-){-}[97mfoo[91m[Tom::][97mPurple[97mWHITE
+[97m [97mMay[91m[-](-){-}[97m100001[91m[George::][97mBLACK[97mWHITE
+[97m [97mJul[91m[-](-){-}[97mSat[91m[Tom::][97m011011[97mtao
+[97mfoo[97m$$$[91m[Tom::][97m`[91m[-](-){+}[97m3.14153[97m000101
+[97m$[97m011100[91m[Phil::][97mTue[91m[+](-){-}[97mMar[97mFeb
+[97m [97m$$$[91m[+](+){+}[97m101001[91m[George::][97mThu[97mGreen
+[97mWed[97mblah[91m[+](+){-}[97m[91m[George::][97m[97mNULL
+[97mRed[97m$[91m[Edna::][97m$$[91m[-](-){-}[97m100001[97mWHITE
+[97m$[97mchi[91m[Tom::][97mMon[91m[-](+){-}[97m3.14153[97mblah
+[97mBLACK[97mBLACK[91m[-](+){-}[97mWHITE[91m[George::][97mOct[97mblah
+[97mfubar[97mphi[91m[Phil::][97m000101[91m[-](+){+}[97mblah[97mfubar
+[97m3.14[97mMon[91m[+](-){-}[97m000010[91m[Edna::][97m"[97mNILL
+[97mfoo[97m2.8[91m[Phil::][97mNULL[91m[+](+){-}[97mSat[97m
+[97mSun[97mRed[91m[+](-){+}[97mPurple[91m[George::][97mWHITE[97m
+[97mMon[97m"[91m[-](+){+}[97mphi[91m[George::][97m`[97m'
+[97m'[97m"[91m[-](-){-}[97mTue[91m[Harry::][97m3.14153[97m000110
+[97mMay[97m100011[91m[Harry::][97mNILL[91m[-](+){+}[97m100111[97mphi
+[97mNULL[97m [91m[Phil::][97m`[91m[+](+){+}[97mWHITE[97mWHITE
+[97mApr[97mBlue[91m[-](-){-}[97mfoo[91m[George::][97mfubar[97m3.14
+[97mYellow[97m$[91m[Phil::][97mWHITE[91m[-](-){+}[97m3.1415[97m 
+[97m$$$[97mfoo[91m[George::][97m [91m[+](+){+}[97mJan[97m`
+[97mOrange[97m$$[91m[-](-){-}[97mMon[91m[Harry::][97mWHITE[97mWHITE
+[97m$$$[97mVOID[91m[Harry::][97m [91m[+](-){+}[97m3.14[97m$
+[97mJan[97m001100[91m[+](+){+}[97m000111[91m[Tom::][97mfubar[97m$
+[97mMon[97mblah[91m[+](-){-}[97mNov[91m[Harry::][97m"[97mfubar
+[97mRed[97m010001[91m[+](-){+}[97mfoo[91m[Harry::][97m3.14[97m3.1415
+[97m2.8[97mNILL[91m[+](+){+}[97mFeb[91m[Phil::][97mMay[97m3.14153
+[97mPurple[97m`[91m[+](+){+}[97m$$$[91m[Tom::][97m`[97mBlue
+[97m [97mchi[91m[Phil::][97m$$[91m[-](+){+}[97m$$$[97mchi
+[97mMon[97mPurple[91m[+](+){+}[97mNILL[91m[Tom::][97m [97mFeb
+[97m[97mThu[91m[Harry::][97m$$[91m[-](+){+}[97mBLACK[97mtao
+[97mApr[97m111011[91m[Edna::][97mfoo[91m[+](-){+}[97m3.1415[97mBLACK
+[97m$[97mBLACK[91m[Phil::][97mWed[91m[+](-){-}[97mNILL[97mBLACK
+[97m [97mfoo[91m[-](+){+}[97mWHITE[91m[Edna::][97m$$[97m3.14153
+[97mNULL[97mDec[91m[George::][97mWHITE[91m[+](+){+}[97m110000[97mSun
+[97m001010[97m$$[91m[Tom::][97mNULL[91m[-](-){+}[97m [97mphi
+[97mBLACK[97mBLACK[91m[-](-){+}[97m2.8[91m[Tom::][97mAug[97m`
+[97m`[97mSat[91m[George::][97m000111[91m[-](-){+}[97mBLACK[97mSun
+[97mWHITE[97m`[91m[-](+){+}[97mFri[91m[Harry::][97m3.14153[97m001011
+[97m"[97mVOID[91m[Phil::][97m3.1415[91m[+](+){-}[97mOct[97m"
+[97mThu[97m2.8[91m[Phil::][97mtao[91m[-](+){+}[97mAug[97mtao
+[97mOrange[97mtao[91m[Phil::][97m2.8[91m[+](-){-}[97m3.1415[97mOct
+[97mBLACK[97mJun[91m[+](+){-}[97mSun[91m[Edna::][97mNULL[97mWHITE
+[97m[97mBLACK[91m[Phil::][97mtao[91m[-](-){-}[97m'[97m 
+[97mtao[97m[91m[Edna::][97mpi[91m[+](-){-}[97m'[97m3.14
+[97mBlue[97mWHITE[91m[Phil::][97mWHITE[91m[-](-){+}[97mFeb[97mPurple
+[97mfoo[97m$$$[91m[Phil::][97mNILL[91m[+](-){-}[97mJan[97mAug
+[97m2.8[97mNULL[91m[Phil::][97mNILL[91m[-](+){+}[97mOrange[97m$
+[97mWHITE[97mSat[91m[Tom::][97mGreen[91m[-](-){-}[97m110111[97m$$$
+[97mWed[97mVOID[91m[-](-){-}[97m$[91m[Phil::][97m$$[97mfubar
+[97mPurple[97m`[91m[+](-){-}[97m[91m[Harry::][97m$[97mGreen
+[97m2.8[97mWHITE[91m[Harry::][97mpi[91m[-](-){+}[97mblah[97mfoo
+[97m3.14153[97mNULL[91m[George::][97m000110[91m[+](-){-}[97mRed[97mblah
+[97mVOID[97mNILL[91m[Phil::][97mchi[91m[+](-){-}[97m [97mBLACK

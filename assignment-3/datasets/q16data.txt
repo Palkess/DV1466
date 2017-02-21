@@ -1,0 +1,80 @@
+2.8NULL[,]::TomBLACK{paris}$blah
+"Sun{paris}blah[,]::Tomchi010000
+May {stockholm}[,]::EdnaWed2.8
+001111Thu{stockholm}Tue[,]::Georgefubartao
+NULLTue{paris}NILL[,]::GeorgeNov3.14153
+ Blue{stockholm}"[,]::EdnaYellowfubar
+BLACK[,]::HarryBLACK{paris}VOID`
+tao3.14{paris}tao[,]::Edna$Blue
+pi3.14153{stockholm}Yellow[,]::PhilPurple$$$
+AprJul[,]::GeorgeDec{tokyo}BLACKtao
+"Tue[,]::George3.14153{tokyo}foo
+NILLApr[,]::Phil2.8{tokyo}"
+chiYellow[,]::HarrySun{stockholm}Purple'
+phi3.14153[,]::HarryWHITE{stockholm}phi010110
+PurpleVOID[,]::Harry3.14{stockholm}Jun2.8
+WHITENILL{paris}Fri[,]::Ednaphi$
+WHITEphi{paris}Orange[,]::PhilTue$$$
+`"[,]::TomBLACK{stockholm}$$$chi
+Green[,]::Harry`{stockholm}Blue
+NILLVOID{paris}blah[,]::Tom3.14000001
+SunBLACK[,]::TomNULL{stockholm}pi110000
+chiphi{paris}foo[,]::Harry0011103.1415
+fubarBLACK[,]::Edna011110{paris}PurpleVOID
+MonApr{tokyo}3.14153[,]::Georgechi3.1415
+Jul'[,]::George{stockholm}NULL
+111001Jan{stockholm}chi[,]::George$$WHITE
+GreenTue[,]::Tomfubar{paris}blahBLACK
+OrangeWed{paris}011101[,]::Ednaphifoo
+$$$NULL{tokyo}[,]::Phil2.8phi
+`WHITE{paris}foo[,]::GeorgeRedSat
+NULLBLACK[,]::TomVOID{paris}$$2.8
+piBLACK[,]::Phil"{stockholm}$$$Oct
+Thu001100{tokyo}Red[,]::Tomphi"
+NULLOct[,]::HarryApr{stockholm}2.8$$$
+phi{tokyo}chi[,]::PhilRedNov
+Orange'[,]::Edna {paris}`Wed
+Sun [,]::TomNILL{paris}Satchi
+chiThu[,]::EdnaWHITE{tokyo}VOIDJun
+0000003.14[,]::GeorgeNULL{tokyo}blahfoo
+011100Jun{tokyo}'[,]::EdnaJul
+Mar[,]::Ednafoo{paris}110110
+NULLVOID[,]::Phil2.8{stockholm}011110`
+WHITE [,]::George3.14{paris}MonThu
+NULL$$[,]::Harryblah{stockholm}WHITEWed
+JulBLACK{paris}Yellow[,]::Tom$$$$$
+NULLApr{stockholm}[,]::Phil`VOID
+phitao{tokyo}BLACK[,]::HarryTueVOID
+BlueMon[,]::Phil{tokyo}BLACKGreen
+tao'[,]::Edna$$${stockholm}Purple
+VOIDfubar{stockholm}$$[,]::HarryTue"
+blahMay[,]::Phil'{stockholm}$$NILL
+fubar2.8[,]::HarrySun{paris}blahYellow
+blah [,]::Phil$$${paris}$$foo
+1100102.8{paris}NULL[,]::EdnaBluefubar
+Mon'{tokyo}NILL[,]::TomWHITE$$$
+BLACKDec{tokyo}$[,]::TomJun$$$
+WHITE`{stockholm}$[,]::GeorgeSat$$$
+ThuMar[,]::Harry010011{tokyo}Red3.14153
+BLACKfubar[,]::GeorgeFri{stockholm}Sun3.14153
+"Orange{stockholm}tao[,]::HarryBLACK3.14
+NILLYellow[,]::Harry${tokyo}101101 
+ phi{stockholm}[,]::EdnaMay 
+JunNULL{tokyo}3.14153[,]::TomchiApr
+blah3.14153{tokyo}Purple[,]::EdnaWHITE
+Sat$[,]::Tom{tokyo}Redtao
+$${stockholm}Red[,]::George`NULL
+YellowSun{paris}$[,]::HarryTuechi
+'VOID{tokyo}Red[,]::Edna"Tue
+MarYellow[,]::Edna"{tokyo}Blue`
+'"[,]::TomMon{stockholm}VOIDMon
+"WHITE{stockholm}chi[,]::EdnaMon'
+3.14152.8[,]::Tomphi{stockholm}WHITE3.14153
+BLACK$$$[,]::Harrychi{tokyo}fooOrange
+WHITESat{paris}pi[,]::Harry$$
+001110`[,]::Georgeblah{paris}NovThu
+'2.8{paris}Orange[,]::Edna101101$$
+ Purple[,]::Edna$${paris}FebOct
+taoVOID{paris}$[,]::TomNILL'
+fubar${paris}110010[,]::PhilBLACKGreen
+MonBLACK[,]::George010110{tokyo}$WHITE
