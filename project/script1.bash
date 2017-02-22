@@ -6,7 +6,7 @@ DOMAIN=$1
 
 URL=$2
 
-SOURCE=$(curl $DOMAIN$URL) # Get the source from our given parameters
+SOURCE=$(curl -s $DOMAIN$URL) # Get the source from our given parameters, keep it silent to avoid annoying output
 
 STR=""
 
