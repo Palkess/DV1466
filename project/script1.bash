@@ -22,7 +22,7 @@ STR=""
 for i in $(echo $SOURCE | grep -Po '(?<=href=")[^"]*' ); do # Get all the href-tags value and loop through
   if [[ $i == *"$DOMAIN"* ]] || [[ $i != "http"* ]]; then # Only save the records that is within the domain
     TARGETDOMAIN=$DOMAIN
-    if [[ $i == "/"* ]]; then
+    if [[ $i == "/"* ]]; then # ------------------------------------------------------------------------------ May need to revisit this since DOMAIN is accepted as a href-value
       TARGETURL=$i
     else
       TARGETURL="/$i"
