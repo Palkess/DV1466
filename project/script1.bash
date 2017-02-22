@@ -2,6 +2,15 @@
 
 # Page scanner - Scans the given domain for href-tags
 
+function help { # Might connect to actual command later, focus on other scripts now
+  echo "Script1 is a page scanner that downloads the given url, searches for hrefs-tags and present their values in a structured fashion."
+  echo "Usage: ./script1.bash <DOMAIN> <URL>"
+  echo "Ex. ./script1.bash mechani.se /"
+  echo ""
+  echo "Commands:"
+  echo "-h,--help                                             Displays helptext"
+}
+
 DOMAIN=$1
 
 URL=$2
