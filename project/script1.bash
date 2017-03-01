@@ -1,20 +1,6 @@
 #!/bin/bash
 
-# Page scanner - Scans the given domain for href-tags
-
-function help { # A little help for those who are lost
-  echo "Script1 is a page scanner that downloads the given url, searches for hrefs-tags and present their values in a structured fashion."
-  echo "Usage: ./script1.bash <DOMAIN> <URL>"
-  echo "Ex. ./script1.bash mechani.se /"
-  echo ""
-  echo "Commands:"
-  echo "-h,--help                                             Displays helptext"
-}
-
-if [ $1 == "-h" ] || [ $1 == "--help" ]; then # Handles helptext
-  help
-  exit 0
-fi
+# Page scanner - Scans the given domain for href-tags and outputs in a structured fashion
 
 if [ -z "$1" ] || [ -z "$2" ]; then # Handles missing args
   echo "Missing arguments."
@@ -34,9 +20,33 @@ STORED=""
 for i in $(echo "$SOURCE" | grep -Po '(?<=a href=")[^"]*' ); do # Get all the a href-tags value and loop through
   if [[ $i != "http"* ]] && [[ $i != "mailto"* ]]; then # Only save the records that is within the domain
     TARGETDOMAIN=$DOMAIN
-    if [[ $i == ".."* ]]; then # Replaces '..' to '/unix' to handle relative paths
-      i=${i#..}
-      i="/unix$i"
+    if [[ $i == "../"* ]]; then # Handle relative paths
+      IFS=/ read -a levels <<< $i
+      IFS=/ read -a URL_LEVELS <<< $URL
+      NR_OF_URL_LEVELS=${#URL_LEVELS[@]}
+      result=""
+
+      if [[ $(echo "$i" | grep -o '\.\.\/' | wc -l) -eq $(expr ${#URL_LEVELS[@]} - 2) ]] || [[ $(echo "$i" | grep -o '\.\.\/' | wc -l) -gt $(expr ${#URL_LEVELS[@]} - 2) ]]; then
+        for (( level = 0; level < ${#levels[@]}; level++ )); do
+          if [[ ${levels[$level]} != ".." ]]; then
+            result="$result${levels[$level]}"
+            if [[ $level < $(expr ${#levels[@]} - 1) ]]; then
+              result="$result/"
+            fi
+          fi
+        done
+      else
+        for (( level = 0; level < ${#levels[@]}; level++ )); do
+          if [[ ${levels[$level]} == ".." ]]; then
+            levels[$level]=${URL_LEVELS[$(expr $level + 1)]}
+          fi
+          result="$result${levels[$level]}"
+          if [[ $level < $(expr ${#levels[@]} - 1) ]]; then
+            result="$result/"
+          fi
+        done
+      fi
+      i="/$result"
     fi
 
     if [[ $i != *"/"* ]]; then # Handle local paths to files
